@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File .\Convert-SvgFoldersToPrinterPng.ps1 -Dpi 300

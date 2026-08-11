@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75mm" height="75mm" viewBox="0 0 750 750" role="img" aria-labelledby="title description">
+  <title id="title">TRANCHE 75 mm round logo sticker</title>
+  <description id="description">Finished-size artwork for a 75 millimetre circular TRANCHE bakery logo sticker.</description>
+  <defs>
+    <clipPath id="round-cut">
+      <circle cx="375" cy="375" r="375"/>
+    </clipPath>
+  </defs>
+  <image x="0" y="0" width="750" height="750" href="Logo.PNG" xlink:href="Logo.PNG" preserveAspectRatio="xMidYMid slice" clip-path="url(#round-cut)"/>
+</svg>

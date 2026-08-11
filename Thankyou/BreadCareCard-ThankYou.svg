@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65mm" height="90mm" viewBox="0 0 650 900" role="img" aria-labelledby="title description">
+  <title id="title">TRANCHE thank-you card front</title>
+  <description id="description">The thank-you side of a 65 by 90 millimetre threaded bread-care card.</description>
+  <defs>
+    <clipPath id="logo-clip">
+      <circle cx="325" cy="171" r="95"/>
+    </clipPath>
+  </defs>
+
+  <rect width="650" height="900" fill="#faf7f2"/>
+  <rect x="18" y="18" width="614" height="864" rx="5" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <circle cx="325" cy="47" r="12" fill="#faf7f2" stroke="#5a3e2b" stroke-width="2"/>
+
+  <image xlink:href="Logo.PNG" x="230" y="76" width="190" height="190" preserveAspectRatio="xMidYMid meet" clip-path="url(#logo-clip)"/>
+
+  <g fill="#2b2b2b" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="325" y="325" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">THANK YOU</text>
+    <text x="325" y="362" fill="#6e7750" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic">for supporting our small bakery</text>
+
+    <line x1="240" y1="402" x2="300" y2="402" stroke="#c69c6d" stroke-width="2"/>
+    <circle cx="325" cy="402" r="5" fill="#6e7750"/>
+    <line x1="350" y1="402" x2="410" y2="402" stroke="#c69c6d" stroke-width="2"/>
+
+    <text x="325" y="463" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="25">Bread made with time, not shortcuts</text>
+
+    <g font-family="Georgia, 'Times New Roman', serif" font-size="22">
+      <text x="325" y="525">Small-batch baked</text>
+      <text x="325" y="564">No added preservatives</text>
+      <text x="325" y="603">No artificial softeners</text>
+      <text x="325" y="642">No commercial improver mixes</text>
+    </g>
+
+    <text x="325" y="699" fill="#6e7750" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic">Carefully chosen ingredients. Made with care.</text>
+    <text x="325" y="752" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic">We hope you enjoy every slice.</text>
+
+    <line x1="195" y1="786" x2="455" y2="786" stroke="#c69c6d" stroke-width="2"/>
+    <text x="325" y="819" font-size="15">Share your experience or tag us</text>
+    <text x="325" y="846" fill="#5a3e2b" font-size="17" font-weight="700">@tranchebakery</text>
+    <text x="325" y="869" fill="#6e7750" font-size="14" font-weight="700">tranchebakery.in</text>
+  </g>
+</svg>

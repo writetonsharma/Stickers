@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65mm" height="90mm" viewBox="0 0 650 900" role="img" aria-labelledby="title description">
+  <title id="title">TRANCHE bread-care card back</title>
+  <description id="description">The care-instruction side of a 65 by 90 millimetre threaded bread-care card.</description>
+
+  <rect width="650" height="900" fill="#faf7f2"/>
+  <rect x="18" y="18" width="614" height="864" rx="5" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <circle cx="325" cy="47" r="12" fill="#faf7f2" stroke="#5a3e2b" stroke-width="2"/>
+
+  <g fill="#2b2b2b" font-family="Arial, Helvetica, sans-serif">
+    <text x="325" y="112" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="700" text-anchor="middle">CARE FOR YOUR BREAD</text>
+    <text x="325" y="148" fill="#6e7750" font-size="15" font-weight="700" letter-spacing="2" text-anchor="middle">A FEW SIMPLE HABITS KEEP IT AT ITS BEST</text>
+
+    <g font-size="19">
+      <g transform="translate(54 199)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 8h36l-3 31H7z"/><path d="M8 8V3h28v5M12 17h20"/>
+      </g>
+      <text x="110" y="210" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">KEEP IT SEALED</text>
+      <text x="110" y="240">Store in the inner bag at room temperature.</text>
+
+      <g transform="translate(55 288)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="5" y="1" width="30" height="40" rx="4"/><path d="M5 17h30M29 8v4M29 24v8M1 42L40 0"/>
+      </g>
+      <text x="110" y="300" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">DO NOT REFRIGERATE</text>
+      <text x="110" y="330">The refrigerator makes bread stale faster.</text>
+
+      <g transform="translate(52 379)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M7 39V16C7 7 14 2 22 2s15 5 15 14v23z"/><path d="M15 17v22M22 14v25M29 17v22"/>
+      </g>
+      <text x="110" y="390" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">SLICE AS NEEDED</text>
+      <text x="110" y="420">Keep the remaining loaf covered and sealed.</text>
+
+      <g transform="translate(53 469)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round">
+        <path d="M20 0v40M3 10l34 20M37 10L3 30M13 4l7 6 7-6M13 36l7-6 7 6M2 18l9 2-3 9M38 18l-9 2 3 9"/>
+      </g>
+      <text x="110" y="480" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">FREEZE WHILE FRESH</text>
+      <text x="110" y="510">Slice, seal well and freeze what you will not use.</text>
+
+      <g transform="translate(52 559)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="5" width="40" height="34" rx="3"/><path d="M2 14h40M9 10h1M17 10h1M11 31h22M14 26c-3-3 3-5 0-8M23 26c-3-3 3-5 0-8M32 26c-3-3 3-5 0-8"/>
+      </g>
+      <text x="110" y="570" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">REFRESH BEFORE SERVING</text>
+      <text x="110" y="600">Toast, or warm at 175°C for 5–10 minutes.</text>
+    </g>
+
+    <line x1="55" y1="650" x2="595" y2="650" stroke="#c69c6d" stroke-width="2"/>
+
+    <image xlink:href="BreadCare-StorageQR.png" x="65" y="685" width="150" height="150" preserveAspectRatio="xMidYMid meet"/>
+    <text x="250" y="720" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-weight="700">MORE CARE GUIDANCE</text>
+    <text x="250" y="758" font-size="18">Scan for freezing, thawing</text>
+    <text x="250" y="786" font-size="18">and reheating instructions.</text>
+    <text x="250" y="824" fill="#6e7750" font-size="15" font-weight="700">tranchebakery.in/faq.html#storage-guide</text>
+  </g>
+</svg>
