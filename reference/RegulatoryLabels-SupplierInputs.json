@@ -1,0 +1,59 @@
+{
+  "status": "Supplier-label transcription; confirm against packaging retained in production records",
+  "ingredients": {
+    "oliveMix50_50": {
+      "basis": "Equal drained-and-rinsed weights of Kalamata olives and black olives",
+      "usedIn": [
+        "L-008 Olive Loaf",
+        "FC-002 Olive, Tomato & Rosemary Focaccia"
+      ],
+      "nutritionTreatment": "Use supplier per-100g panels as a conservative proxy. Both olives are drained and rinsed before weighing, so calculated sodium is likely overstated; no unsupported rinse-reduction factor is applied.",
+      "kalamataOlives": {
+        "supplierDeclaration": [
+          { "name": "Kalamata olives", "percent": 60.6 },
+          { "name": "water", "percent": 34.4 },
+          { "name": "sea salt", "percent": 3.0 },
+          { "name": "red wine vinegar", "percent": 1.4 },
+          { "name": "extra virgin olive oil", "percent": 0.6 }
+        ],
+        "nutritionPer100g": {
+          "energyKcal": 269,
+          "proteinG": 1.3,
+          "carbohydrateG": 6.0,
+          "fatG": 26.0,
+          "saturatedFatG": 3.8,
+          "transFatG": 0.0,
+          "sodiumMg": 3200
+        }
+      },
+      "blackOlives": {
+        "supplierDeclaration": [
+          { "name": "water" },
+          { "name": "black olives" },
+          { "name": "salt" },
+          { "name": "stabilizer (ferrous gluconate)" }
+        ],
+        "nutritionPer100g": {
+          "energyKcal": 125,
+          "proteinG": 0.5,
+          "carbohydrateG": 0.0,
+          "totalSugarsG": 0.0,
+          "addedSugarsG": 0.0,
+          "fatG": 13.0,
+          "saturatedFatG": 2.2,
+          "transFatG": 0.1,
+          "sodiumMg": 1080
+        }
+      },
+      "calculatedNutritionPer100g": {
+        "energyKcal": 197,
+        "proteinG": 0.9,
+        "carbohydrateG": 3.0,
+        "fatG": 19.5,
+        "saturatedFatG": 3.0,
+        "transFatG": 0.05,
+        "sodiumMg": 2140
+      }
+    }
+  }
+}

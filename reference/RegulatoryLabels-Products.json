@@ -1,0 +1,466 @@
+{
+  "status": "CONTENT FINAL PROOF - recipe-based approximate nutrition; printer and compliance review pending",
+  "sharedCrossContact": "Made in a kitchen that also handles milk and milk products, tree nuts, soy, sesame and other seeds.",
+  "products": [
+    {
+      "code": "L-001",
+      "name": "Classic Table White",
+      "description": "Lean wheat bread with 20% whole wheat flour",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 665,
+      "nutrition": {
+        "energyKcal": 218,
+        "proteinG": 8.2,
+        "carbohydrateG": 44.3,
+        "totalSugarsG": 0.2,
+        "addedSugarsG": 0.0,
+        "fatG": 0.8,
+        "saturatedFatG": 0.1,
+        "transFatG": 0.0,
+        "sodiumMg": 474
+      }
+    },
+    {
+      "code": "L-002",
+      "name": "Whole Wheat Loaf 50%",
+      "description": "Everyday loaf made with 50% whole wheat flour",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 750,
+      "nutrition": {
+        "energyKcal": 213,
+        "proteinG": 9.1,
+        "carbohydrateG": 43.2,
+        "totalSugarsG": 0.2,
+        "addedSugarsG": 0.0,
+        "fatG": 1.1,
+        "saturatedFatG": 0.2,
+        "transFatG": 0.0,
+        "sodiumMg": 422
+      }
+    },
+    {
+      "code": "L-003",
+      "name": "Whole Wheat Loaf 80%",
+      "description": "Hearty loaf made with 80% whole wheat flour",
+      "ingredients": "Wheat flour blend (whole wheat flour, refined wheat flour and vital wheat gluten), filtered water, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 750,
+      "nutrition": {
+        "energyKcal": 209,
+        "proteinG": 9.6,
+        "carbohydrateG": 42.5,
+        "totalSugarsG": 0.2,
+        "addedSugarsG": 0.0,
+        "fatG": 1.3,
+        "saturatedFatG": 0.2,
+        "transFatG": 0.0,
+        "sodiumMg": 422
+      }
+    },
+    {
+      "code": "L-004",
+      "name": "Multi-Seed Loaf",
+      "description": "Whole wheat loaf with sesame, flax, chia, pumpkin and sunflower seeds",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, multi-seed mix (flax seeds, chia seeds, sesame seeds, pumpkin seeds and sunflower seeds), salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and sesame.",
+      "pack": "1 loaf",
+      "yieldGrams": 765,
+      "nutrition": {
+        "energyKcal": 234,
+        "proteinG": 9.7,
+        "carbohydrateG": 40.0,
+        "totalSugarsG": 0.3,
+        "addedSugarsG": 0.0,
+        "fatG": 4.7,
+        "saturatedFatG": 0.6,
+        "transFatG": 0.0,
+        "sodiumMg": 415
+      }
+    },
+    {
+      "code": "L-006",
+      "name": "Milk & Butter Loaf",
+      "description": "Soft enriched loaf made with milk, cream and butter",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, milk, cream, butter, sugar, milk powder, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "1 loaf",
+      "yieldGrams": 740,
+      "nutrition": {
+        "energyKcal": 267,
+        "proteinG": 8.7,
+        "carbohydrateG": 44.4,
+        "totalSugarsG": 4.6,
+        "addedSugarsG": 2.7,
+        "fatG": 6.1,
+        "saturatedFatG": 3.5,
+        "transFatG": 0.2,
+        "sodiumMg": 445
+      }
+    },
+    {
+      "code": "L-007",
+      "name": "Honey & Walnut Loaf",
+      "description": "Whole wheat loaf with honey and walnuts",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, walnuts, honey, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and walnuts (tree nuts).",
+      "pack": "1 loaf",
+      "yieldGrams": 765,
+      "nutrition": {
+        "energyKcal": 248,
+        "proteinG": 9.1,
+        "carbohydrateG": 42.0,
+        "totalSugarsG": 3.7,
+        "addedSugarsG": 3.3,
+        "fatG": 5.9,
+        "saturatedFatG": 0.6,
+        "transFatG": 0.0,
+        "sodiumMg": 368
+      }
+    },
+    {
+      "code": "L-008",
+      "name": "Olive Loaf",
+      "description": "Soft wheat loaf with Kalamata and black olives",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive mix (50% Kalamata olives [Kalamata olives, water, sea salt, red wine vinegar and extra virgin olive oil] and 50% black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), olive oil, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 740,
+      "nutrition": {
+        "energyKcal": 238,
+        "proteinG": 7.5,
+        "carbohydrateG": 40.1,
+        "totalSugarsG": 0.2,
+        "addedSugarsG": 0.0,
+        "fatG": 5.2,
+        "saturatedFatG": 0.8,
+        "transFatG": 0.0,
+        "sodiumMg": 657
+      }
+    },
+    {
+      "code": "L-009",
+      "name": "Caramelized Onion Loaf",
+      "description": "Soft wheat loaf with slow-cooked caramelized onions",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, caramelized onions (onions and olive oil), salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 665,
+      "nutrition": {
+        "energyKcal": 229,
+        "proteinG": 8.3,
+        "carbohydrateG": 44.8,
+        "totalSugarsG": 0.4,
+        "addedSugarsG": 0.0,
+        "fatG": 1.9,
+        "saturatedFatG": 0.3,
+        "transFatG": 0.0,
+        "sodiumMg": 422
+      }
+    },
+    {
+      "code": "L-010",
+      "name": "Honey & Oat Loaf",
+      "description": "Soft wheat loaf with rolled oats, honey, butter and cream",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, rolled oats, honey, milk powder, butter, cream, salt and instant yeast.",
+      "allergens": "Contains wheat, oats, gluten and milk.",
+      "pack": "1 loaf",
+      "yieldGrams": 800,
+      "nutrition": {
+        "energyKcal": 268,
+        "proteinG": 8.8,
+        "carbohydrateG": 48.2,
+        "totalSugarsG": 4.8,
+        "addedSugarsG": 3.6,
+        "fatG": 4.5,
+        "saturatedFatG": 2.3,
+        "transFatG": 0.1,
+        "sodiumMg": 361
+      }
+    },
+    {
+      "code": "BR-007",
+      "name": "Whole Wheat Rolls",
+      "description": "Six soft rolls made with 80% whole wheat flour",
+      "ingredients": "Wheat flour blend (whole wheat flour, refined wheat flour and vital wheat gluten), filtered water, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "6 rolls",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 238,
+        "proteinG": 11.0,
+        "carbohydrateG": 48.4,
+        "totalSugarsG": 0.2,
+        "addedSugarsG": 0.0,
+        "fatG": 1.5,
+        "saturatedFatG": 0.3,
+        "transFatG": 0.0,
+        "sodiumMg": 539
+      }
+    },
+    {
+      "code": "BR-008",
+      "name": "Multi-Seed Rolls",
+      "description": "Six seeded whole wheat rolls",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, multi-seed mix (flax seeds, chia seeds, sesame seeds, pumpkin seeds and sunflower seeds), salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and sesame.",
+      "pack": "6 rolls",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 276,
+        "proteinG": 11.5,
+        "carbohydrateG": 48.3,
+        "totalSugarsG": 0.3,
+        "addedSugarsG": 0.0,
+        "fatG": 5.1,
+        "saturatedFatG": 0.7,
+        "transFatG": 0.0,
+        "sodiumMg": 481
+      }
+    },
+    {
+      "code": "BR-006",
+      "name": "Milk Buns",
+      "description": "Six soft buns enriched with milk, butter and cream",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), milk, filtered water, butter, cream, sugar, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "6 buns",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 329,
+        "proteinG": 10.3,
+        "carbohydrateG": 56.2,
+        "totalSugarsG": 6.2,
+        "addedSugarsG": 4.5,
+        "fatG": 7.1,
+        "saturatedFatG": 4.0,
+        "transFatG": 0.2,
+        "sodiumMg": 552
+      }
+    },
+    {
+      "code": "BR-005",
+      "name": "Sesame Burger Buns",
+      "description": "Six soft burger buns topped with toasted sesame",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, milk, sesame seeds, butter, sugar, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten, milk and sesame.",
+      "pack": "6 buns",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 330,
+        "proteinG": 10.5,
+        "carbohydrateG": 56.2,
+        "totalSugarsG": 4.7,
+        "addedSugarsG": 3.8,
+        "fatG": 7.0,
+        "saturatedFatG": 2.7,
+        "transFatG": 0.1,
+        "sodiumMg": 546
+      }
+    },
+    {
+      "code": "BR-001",
+      "name": "Potato Buns",
+      "description": "Six soft buns made with potato, milk and butter",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, milk, plain cooked potato, butter, milk powder, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "6 buns",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 292,
+        "proteinG": 9.9,
+        "carbohydrateG": 50.1,
+        "totalSugarsG": 2.1,
+        "addedSugarsG": 0.0,
+        "fatG": 5.8,
+        "saturatedFatG": 3.2,
+        "transFatG": 0.2,
+        "sodiumMg": 497
+      }
+    },
+    {
+      "code": "BR-003",
+      "name": "Bavarian Pretzel Buns",
+      "description": "Six malted pretzel buns with a traditional dark crust",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, butter, sugar, barley malt, salt, instant yeast and baking soda (processing bath).",
+      "allergens": "Contains wheat, barley, gluten and milk.",
+      "pack": "6 buns",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 282,
+        "proteinG": 9.4,
+        "carbohydrateG": 53.5,
+        "totalSugarsG": 3.3,
+        "addedSugarsG": 3.1,
+        "fatG": 3.4,
+        "saturatedFatG": 1.7,
+        "transFatG": 0.1,
+        "sodiumMg": 480
+      }
+    },
+    {
+      "code": "BR-004",
+      "name": "Kaiser Rolls",
+      "description": "Six crisp-topped malted wheat rolls",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, butter, salt, barley malt and instant yeast.",
+      "allergens": "Contains wheat, barley, gluten and milk.",
+      "pack": "6 rolls",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 276,
+        "proteinG": 9.7,
+        "carbohydrateG": 53.9,
+        "totalSugarsG": 0.7,
+        "addedSugarsG": 0.5,
+        "fatG": 2.1,
+        "saturatedFatG": 0.9,
+        "transFatG": 0.1,
+        "sodiumMg": 599
+      }
+    },
+    {
+      "code": "BG-001",
+      "name": "Classic New York-Style Bagel",
+      "description": "Six hand-shaped, malt-boiled wheat bagels",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, barley malt, salt and instant yeast.",
+      "allergens": "Contains wheat, barley and gluten.",
+      "pack": "6 bagels",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 275,
+        "proteinG": 9.9,
+        "carbohydrateG": 56.0,
+        "totalSugarsG": 1.1,
+        "addedSugarsG": 0.9,
+        "fatG": 0.9,
+        "saturatedFatG": 0.1,
+        "transFatG": 0.0,
+        "sodiumMg": 599
+      }
+    },
+    {
+      "code": "BG-002",
+      "name": "Caramelized Onion Bagel",
+      "description": "Six malt-boiled bagels with caramelized onions",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, caramelized onions (onions and olive oil), barley malt, salt and instant yeast.",
+      "allergens": "Contains wheat, barley and gluten.",
+      "pack": "6 bagels",
+      "yieldGrams": 660,
+      "nutrition": {
+        "energyKcal": 269,
+        "proteinG": 9.1,
+        "carbohydrateG": 52.1,
+        "totalSugarsG": 1.4,
+        "addedSugarsG": 0.8,
+        "fatG": 2.4,
+        "saturatedFatG": 0.3,
+        "transFatG": 0.0,
+        "sodiumMg": 539
+      }
+    },
+    {
+      "code": "FC-002",
+      "name": "Olive, Tomato & Rosemary Focaccia",
+      "description": "8x8 inch tray focaccia with olives, semi-dried tomatoes and rosemary",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive oil, olive mix (50% Kalamata olives [Kalamata olives, water, sea salt, red wine vinegar and extra virgin olive oil] and 50% black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), semi-dried tomatoes (tomatoes, olive oil, garlic, black pepper, oregano, thyme and rosemary), sea salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 tray",
+      "yieldGrams": 495,
+      "nutrition": {
+        "energyKcal": 332,
+        "proteinG": 7.9,
+        "carbohydrateG": 44.0,
+        "totalSugarsG": 0.8,
+        "addedSugarsG": 0.0,
+        "fatG": 13.8,
+        "saturatedFatG": 1.9,
+        "transFatG": 0.0,
+        "sodiumMg": 580
+      }
+    },
+    {
+      "code": "L-011",
+      "name": "Garlic & Herb Knots",
+      "description": "10 soft knots finished with garlic-herb butter",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive oil, garlic-herb glaze (butter, olive oil, garlic and herbs), sugar, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "10 knots",
+      "yieldGrams": 600,
+      "nutrition": {
+        "energyKcal": 335,
+        "proteinG": 9.6,
+        "carbohydrateG": 54.8,
+        "totalSugarsG": 1.9,
+        "addedSugarsG": 1.7,
+        "fatG": 8.4,
+        "saturatedFatG": 2.5,
+        "transFatG": 0.1,
+        "sodiumMg": 527
+      }
+    },
+    {
+      "code": "BR-009",
+      "name": "Cinnamon Rolls",
+      "description": "Four soft cinnamon-filled rolls",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, sugar, butter, milk, sugar syrup (sugar and water), cinnamon, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "4 rolls",
+      "yieldGrams": 560,
+      "nutrition": {
+        "energyKcal": 336,
+        "proteinG": 6.8,
+        "carbohydrateG": 55.0,
+        "totalSugarsG": 18.6,
+        "addedSugarsG": 17.9,
+        "fatG": 10.3,
+        "saturatedFatG": 6.2,
+        "transFatG": 0.4,
+        "sodiumMg": 370
+      }
+    },
+    {
+      "code": "BR-010",
+      "name": "Chocolate Babka Buns",
+      "description": "Four soft twisted buns with dark chocolate and cocoa",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, dark chocolate couverture (sugar, cocoa solids, cocoa butter, emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical flavouring substance [vanillin]), butter, milk, sugar, sugar syrup (sugar and water), brown sugar, cocoa powder, salt and instant yeast.",
+      "allergens": "Contains wheat, gluten, milk and soy.",
+      "pack": "4 buns",
+      "yieldGrams": 560,
+      "nutrition": {
+        "energyKcal": 360,
+        "proteinG": 7.5,
+        "carbohydrateG": 51.7,
+        "totalSugarsG": 16.4,
+        "addedSugarsG": 15.8,
+        "fatG": 14.2,
+        "saturatedFatG": 8.6,
+        "transFatG": 0.3,
+        "sodiumMg": 371
+      }
+    },
+    {
+      "code": "BR-011",
+      "name": "Nordic Cardamom Buns",
+      "description": "Four soft cardamom buns with a brown-sugar filling",
+      "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, butter, milk, brown sugar, sugar, sugar syrup (sugar and water), salt, cardamom and instant yeast.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "4 buns",
+      "yieldGrams": 560,
+      "nutrition": {
+        "energyKcal": 333,
+        "proteinG": 7.2,
+        "carbohydrateG": 52.4,
+        "totalSugarsG": 15.0,
+        "addedSugarsG": 14.3,
+        "fatG": 10.8,
+        "saturatedFatG": 6.5,
+        "transFatG": 0.4,
+        "sodiumMg": 426
+      }
+    }
+  ]
+}

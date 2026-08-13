@@ -1,0 +1,3462 @@
+[
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Master flour composition (MFC)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "10% Whole wheat flour (8kg)"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "price"
+      ],
+      [
+        "Whole wheat flour",
+        "10%",
+        "800g",
+        "27.2"
+      ],
+      [
+        "White flour",
+        "90%",
+        "7200g",
+        "302.4"
+      ],
+      [
+        "Vital Wheat Gluten",
+        "3.75%",
+        "300g",
+        "90.0"
+      ],
+      [
+        "Cost per kg",
+        "",
+        "",
+        "52.45"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "20% Whole wheat flour"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "price"
+      ],
+      [
+        "Whole wheat flour",
+        "20%",
+        "1600g",
+        "54.4"
+      ],
+      [
+        "White flour",
+        "80%",
+        "6400g",
+        "268.8"
+      ],
+      [
+        "Vital Wheat Gluten",
+        "3.75%",
+        "300g",
+        "90.0"
+      ],
+      [
+        "Cost per kg",
+        "",
+        "",
+        "51.65"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "50% Whole wheat flour"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "price"
+      ],
+      [
+        "Whole wheat flour",
+        "50%",
+        "4000g",
+        "136.0"
+      ],
+      [
+        "White flour",
+        "50%",
+        "4000g",
+        "168.0"
+      ],
+      [
+        "Vital Wheat Gluten",
+        "5%",
+        "400g",
+        "120.0"
+      ],
+      [
+        "Cost per kg",
+        "",
+        "",
+        "53.00"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "80% Whole wheat flour"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "price"
+      ],
+      [
+        "Whole wheat flour",
+        "80%",
+        "6400g",
+        "217.6"
+      ],
+      [
+        "White flour",
+        "20%",
+        "1600g",
+        "67.2"
+      ],
+      [
+        "Vital Wheat Gluten",
+        "5%",
+        "400g",
+        "120.0"
+      ],
+      [
+        "Cost per kg",
+        "",
+        "",
+        "50.60"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Master Sweet dough – 1 (MSD1)"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "price"
+      ],
+      [
+        "MFC",
+        "10%",
+        "1000g",
+        "52.5"
+      ],
+      [
+        "Hydration",
+        "60%",
+        "600g",
+        "0.0"
+      ],
+      [
+        "Full-cream milk",
+        "20%",
+        "200g",
+        "14.0"
+      ],
+      [
+        "Filter water",
+        "40%",
+        "400g",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "10%",
+        "100g",
+        "63.0"
+      ],
+      [
+        "Sugar",
+        "8%",
+        "80g",
+        "4.8"
+      ],
+      [
+        "Cost per kg",
+        "",
+        "",
+        "134.25"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Shared-batch note: For the current sweet bakes, add yeast at 1% and salt at 2%. Divide the fully mixed dough using each recipe's shared dough allocation. Add cardamom only to the Nordic Cardamom Buns portion after it is separated."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Master Pricing Sheet"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Price per kg",
+        "Comments"
+      ],
+      [
+        "Whole wheat flour",
+        "34",
+        "Shown as \"Wheat flour\" in MFC blends and \"Whole wheat flour\" in recipes"
+      ],
+      [
+        "White flour",
+        "42",
+        ""
+      ],
+      [
+        "Vital wheat gluten",
+        "300",
+        "Shown as \"Gluten\" / \"Vital Wheat Gluten\""
+      ],
+      [
+        "Full-cream milk",
+        "70",
+        ""
+      ],
+      [
+        "Milk powder",
+        "650",
+        ""
+      ],
+      [
+        "Fresh cream",
+        "300",
+        "Shown as \"Cream\" / \"Fresh cream\""
+      ],
+      [
+        "Fresh white butter",
+        "630",
+        "Used in MSD1 and sweet-roll fillings Used in buns/rolls;"
+      ],
+      [
+        "Filter water",
+        "0",
+        "Covers \"Hydration\" / \"Filter water\" / \"Cold filter water\" / \"Water\""
+      ],
+      [
+        "Olive oil",
+        "1400",
+        ""
+      ],
+      [
+        "Sugar (white)",
+        "60",
+        "Plain \"Sugar\""
+      ],
+      [
+        "brown sugar",
+        "100",
+        "Chocolate Babka Buns, Cardamom buns"
+      ],
+      [
+        "Honey",
+        "450",
+        ""
+      ],
+      [
+        "Yeast",
+        "380",
+        ""
+      ],
+      [
+        "Salt",
+        "40",
+        ""
+      ],
+      [
+        "Barley malt",
+        "800",
+        "Also used for bagel malt bath"
+      ],
+      [
+        "Multi-seed mix\nSesame – 20% (200/kg)\nFlex – 25% (180/kg)\nChia – 25% (350/kg)\nPumpkin – 15% (500/kg)\nSunflower – 15% (200/kg)",
+        "40+45+88+75+30 = 278",
+        "Shown as \"Seed Mix\" / \"Multiseed mix\""
+      ],
+      [
+        "Sesame seeds",
+        "200",
+        ""
+      ],
+      [
+        "Walnut",
+        "1000",
+        ""
+      ],
+      [
+        "Olives mix",
+        "700",
+        "Shown as \"Olives Mix\" / \"Olive topping\""
+      ],
+      [
+        "Semi-dried tomato",
+        "Defer",
+        "Focaccia topping"
+      ],
+      [
+        "Caramelized onions",
+        "250",
+        "Bagels and loaf, Caramelized Onion Loaf"
+      ],
+      [
+        "Rolled oats",
+        "220",
+        ""
+      ],
+      [
+        "Mashed potato",
+        "30",
+        "From potatoes; Potato Buns"
+      ],
+      [
+        "Garlic",
+        "defer",
+        "For garlic-butter glaze (Garlic Knots)"
+      ],
+      [
+        "Rosemary",
+        "defer",
+        "Focaccia"
+      ],
+      [
+        "Cardamom",
+        "7000",
+        ""
+      ],
+      [
+        "Vanilla",
+        "Defer",
+        ""
+      ],
+      [
+        "Cinnamon",
+        "1200",
+        ""
+      ],
+      [
+        "Cocoa powder",
+        "1700",
+        "Van Houten Intense Dark Cocoa Powder"
+      ],
+      [
+        "Dark chocolate couverture",
+        "1200",
+        "Van Houten 46.5% dark couverture"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Classic Table White"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-001    Version: 1.0    Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "75%",
+        "335g",
+        "",
+        "0.0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Dough weight",
+        "",
+        "800g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "750g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "25.5"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 20%, fan speed 1, 180°C; then 40 mins dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹260 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins on steam and then 165 for 40mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Changed hydration from 70% to 75%."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "50% Whole Wheat Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-002    Version: 1.0    Base Flour: 450g MFC: 50%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 50%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.9"
+      ],
+      [
+        "Hydration",
+        "75%",
+        "340g",
+        "",
+        "0.0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Dough weight",
+        "",
+        "800g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "750g",
+        "",
+        ""
+      ],
+      [
+        "Notes",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "25.7"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 40%, fan speed 1, 190°C; then 45 mins dry, fan speed 1, 180°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹260 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status:"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins at 40% steam and then 180 for 45mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "7/11/2026"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "75% hydration is high. Do two tests – 70% hydration and may be increase AA a bit."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "80% Whole Wheat Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-003    Version: 1.0    Base Flour: 450g MFC: 80%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 80%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "22.8"
+      ],
+      [
+        "Hydration",
+        "75%",
+        "340g",
+        "",
+        "0.0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Dough weight",
+        "",
+        "800g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "750g",
+        "",
+        ""
+      ],
+      [
+        "Notes",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "24.6"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 40%, fan speed 1, 190°C; then 45 mins dry, fan speed 1, 180°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹260 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status:"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins at 40% steam and then 180 for 45mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "7/11/2026"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "80% hydration is high. Try with 75% hydration."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Multi-Seed Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-004    Version: 1.0    Base Flour: 450g MFC: 50%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 50%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.9"
+      ],
+      [
+        "Hydration",
+        "85%",
+        "382g",
+        "",
+        "0.0"
+      ],
+      [
+        "Multi-Seed Mix",
+        "~17%",
+        "75g",
+        "",
+        "20.8"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Dough weight",
+        "",
+        "920g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "860g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "47.0"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 40%, fan speed 1, 190°C; then 45 mins dry, fan speed 1, 180°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹320 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "** Autolyse with 300g water. Soak seeds overnight in rest water (85g). Test with 80% hydration."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Multiply for every count of bread."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins at 40% steam and then 180 for 45mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Milk & Butter Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-006    Version: 1.0    Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "70%",
+        "315g",
+        "",
+        "0.0"
+      ],
+      [
+        "Full-cream milk",
+        "28%",
+        "126g",
+        "",
+        "8.8"
+      ],
+      [
+        "Water",
+        "42%",
+        "189g",
+        "",
+        "0.0"
+      ],
+      [
+        "Milk powder",
+        "4%",
+        "20g",
+        "",
+        "13.0"
+      ],
+      [
+        "Fresh cream",
+        "7%",
+        "30g",
+        "",
+        "9.0"
+      ],
+      [
+        "Fresh white butter",
+        "7%",
+        "30g",
+        "",
+        "18.9"
+      ],
+      [
+        "Sugar",
+        "5%",
+        "22g",
+        "",
+        "1.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Dough weight",
+        "",
+        "880g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "830g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "76.5"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 165°C flat, no steam (enriched — gentle heat to stay golden then colour slowly to a dark rustic finish), fan speed 1, ~50 mins."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹340 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Hydration split: 40% full-cream milk and 60% water."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "High cost bread"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Honey & Walnut Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-007    Version: 1.0    Base Flour: 450g MFC: 50%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 50%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.9"
+      ],
+      [
+        "Hydration",
+        "80%",
+        "360g",
+        "",
+        "0.0"
+      ],
+      [
+        "Walnut",
+        "~15%",
+        "65g",
+        "",
+        "65.0"
+      ],
+      [
+        "Honey",
+        "8%",
+        "35g",
+        "",
+        "15.8"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Dough weight",
+        "",
+        "920g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "860g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "106.4"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 20%, fan speed 1, 180°C; then 40 mins dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹380 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Lightly toast walnuts before mixing."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins and then 165 for 40mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "High cost bread"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Olive Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-008    Version: 1.0    Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "70%",
+        "315g",
+        "",
+        "0.0"
+      ],
+      [
+        "Kalamata olives",
+        "20%",
+        "90g",
+        "",
+        "63.0"
+      ],
+      [
+        "Olive Oil",
+        "4%",
+        "20g",
+        "",
+        "28.0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Dough weight",
+        "",
+        "885g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "835g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "116.5"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 20%, fan speed 1, 180°C; then 40 mins dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹400 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Olive oil makes the dough softer; keep hydration at 70%."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake: 190 for 10mins and then 165 for 40mins with fan."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Caramelized Onion Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-009    Version: 1.0    Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "70%",
+        "315g",
+        "",
+        "0.0"
+      ],
+      [
+        "Caramelized onions",
+        "11%",
+        "50g",
+        "",
+        "12.5"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Dough weight",
+        "",
+        "825g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "750g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "38.0"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 10 mins steam at 20%, fan speed 1, 180°C; then 40 mins dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹300 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Retain 70% hydration for the final formula."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Honey & Oat Loaf"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-010    Version: 1.0    Base Flour: 450g Total Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Milk Powder",
+        "4%",
+        "20g",
+        "",
+        "13.0"
+      ],
+      [
+        "Hydration",
+        "70%",
+        "315g",
+        "",
+        "0.0"
+      ],
+      [
+        "Rolled oats",
+        "20%",
+        "90g",
+        "",
+        "19.8"
+      ],
+      [
+        "Honey",
+        "9%",
+        "40g",
+        "",
+        "18.0"
+      ],
+      [
+        "Fresh white butter",
+        "5%",
+        "20g",
+        "",
+        "12.6"
+      ],
+      [
+        "Fresh cream",
+        "5%",
+        "20g",
+        "",
+        "6.0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Dough weight",
+        "",
+        "970g",
+        "",
+        ""
+      ],
+      [
+        "Final baked weight",
+        "",
+        "900g",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "94.9"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 165°C flat, no steam (enriched — gentle heat to stay golden then colour slowly to a dark rustic finish), fan speed 1, ~50 mins."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹360 (full loaf)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Status: final"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Retain 70% hydration for the final formula."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Whole Wheat Rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-007    Version: 1.0 Base Flour: 450g MFC: 80%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 80%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "22.8"
+      ],
+      [
+        "Hydration",
+        "75%",
+        "340g",
+        "",
+        "0.0"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Dough weight",
+        "",
+        "800g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "25.0"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹260 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Multi-Seed Rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-008    Version: 1.0 Base Flour: 420g MFC: 50%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 50%, incl. gluten)",
+        "100%",
+        "420g",
+        "",
+        "22.3"
+      ],
+      [
+        "Hydration",
+        "75%",
+        "315g",
+        "",
+        "0.0"
+      ],
+      [
+        "Multi-seed mix",
+        "15%",
+        "60g",
+        "",
+        "16.7"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Dough weight",
+        "",
+        "800g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "41.2"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹280 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Soak the multi-seed mix overnight in part of the formula water."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Sesame Burger Buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-005    Version: 1.0 Base Flour: 450g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.6"
+      ],
+      [
+        "Hydration",
+        "65%",
+        "290g",
+        "",
+        "0.0"
+      ],
+      [
+        "Full-cream milk",
+        "20%",
+        "90g",
+        "",
+        "6.3"
+      ],
+      [
+        "Filter water",
+        "45%",
+        "200g",
+        "",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "5%",
+        "25g",
+        "",
+        "15.8"
+      ],
+      [
+        "Sugar",
+        "5%",
+        "25g",
+        "",
+        "1.5"
+      ],
+      [
+        "Sesame Seeds",
+        "5%",
+        "25g",
+        "",
+        "5.0"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Sesame topping",
+        "~2%",
+        "10g",
+        "",
+        "2.0"
+      ],
+      [
+        "Dough weight",
+        "",
+        "830g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "56.5"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹300 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Lightly toast the 25g sesame inclusion before mixing; top the shaped buns with the additional 10g sesame."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "recipe seems good."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Kaiser Rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-004    Version: 1.0 Base Flour: 475g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "475g",
+        "",
+        "24.9"
+      ],
+      [
+        "Filter water",
+        "65%",
+        "310g",
+        "",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "2%",
+        "10g",
+        "",
+        "6.3"
+      ],
+      [
+        "Barley Malt",
+        "1%",
+        "5g",
+        "",
+        "4.0"
+      ],
+      [
+        "Salt",
+        "2%",
+        "10g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Dough weight",
+        "",
+        "815g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "37.5"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹290 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Milk Buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-006    Version: 1.0 Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "65%",
+        "290g",
+        "",
+        "0.0"
+      ],
+      [
+        "Full-cream milk",
+        "38%",
+        "170g",
+        "",
+        "11.9"
+      ],
+      [
+        "Filter water",
+        "27%",
+        "120g",
+        "",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "7%",
+        "30g",
+        "",
+        "18.9"
+      ],
+      [
+        "Fresh cream",
+        "7%",
+        "30g",
+        "",
+        "9.0"
+      ],
+      [
+        "Sugar",
+        "7%",
+        "30g",
+        "",
+        "1.8"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "5g",
+        "",
+        "1.9"
+      ],
+      [
+        "Dough weight",
+        "",
+        "840g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "67.1"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹340 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "recipe seems good."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Potato Buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-001    Version: 1.0 Base Flour: 410g, 6 rolls MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "410g",
+        "",
+        "21.2"
+      ],
+      [
+        "Mashed potato",
+        "20%",
+        "82g",
+        "",
+        "2.5"
+      ],
+      [
+        "Hydration",
+        "65%",
+        "270g",
+        "",
+        "0.0"
+      ],
+      [
+        "Full-cream milk",
+        "20%",
+        "85g",
+        "",
+        "6.0"
+      ],
+      [
+        "Filter water",
+        "45%",
+        "185g",
+        "",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "7%",
+        "30g",
+        "",
+        "18.9"
+      ],
+      [
+        "Milk powder",
+        "5%",
+        "20g",
+        "",
+        "13.0"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Dough weight",
+        "",
+        "820g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "63.3"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹300 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "total 820g ~~ 130-135g roll. 7g extra in case of wastage."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Bavarian Pretzel Buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-003    Version: 1.0 Base Flour: 450g MFC: 20%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 20%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.2"
+      ],
+      [
+        "Hydration",
+        "65%",
+        "290g",
+        "",
+        "0.0"
+      ],
+      [
+        "Fresh white butter",
+        "5%",
+        "20g",
+        "",
+        "12.6"
+      ],
+      [
+        "Sugar",
+        "3%",
+        "15g",
+        "",
+        "0.9"
+      ],
+      [
+        "Barley Malt",
+        "2%",
+        "9g",
+        "",
+        "7.2"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Dough weight",
+        "",
+        "790g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "45.8"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 190°C (higher heat for deep metallic pretzel crust)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹280 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Pretzel finish: baking soda solution before baking."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "7/9"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Use a 4% baking soda solution for good colour. Seal the bottoms well before the bath."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Classic New York-Style Bagel"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BG-001    Version: 1.0 Base Flour: 490g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "490g",
+        "",
+        "25.7"
+      ],
+      [
+        "Cold filter water",
+        "55%",
+        "270g",
+        "",
+        "0.0"
+      ],
+      [
+        "Barley Malt",
+        "2%",
+        "10g",
+        "",
+        "8.0"
+      ],
+      [
+        "Salt",
+        "2%",
+        "10g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "0.5%",
+        "3g",
+        "",
+        "1.1"
+      ],
+      [
+        "Malt bath",
+        "3%",
+        "60g / 2L water",
+        "",
+        "48 (bath, reusable)"
+      ],
+      [
+        "Dough weight (before malt bath)",
+        "",
+        "783g",
+        "",
+        ""
+      ],
+      [
+        "Bagel weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost (incl. ~₹5 malt allowance)",
+        "",
+        "",
+        "",
+        "40.2"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹360 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Cold fermentation — 18 hours."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — on traditional burlap boards after the malt bath."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Advance notice — 48 hours."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Malt bath: boiled briefly in water with barley malt for color and shine"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 bagels"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Caramelized Onion Bagel"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BG-002    Version: 1.0 Base Flour: 450g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "450g",
+        "",
+        "23.6"
+      ],
+      [
+        "Cold filter water",
+        "55%",
+        "248g",
+        "",
+        "0.0"
+      ],
+      [
+        "Caramelized onions",
+        "15%",
+        "67g",
+        "",
+        "16.8"
+      ],
+      [
+        "Barley Malt",
+        "2%",
+        "9g",
+        "",
+        "7.2"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Yeast",
+        "0.5%",
+        "2g",
+        "",
+        "0.8"
+      ],
+      [
+        "Malt bath",
+        "3%",
+        "60g / 2L water",
+        "",
+        "48 (bath, reusable)"
+      ],
+      [
+        "Dough weight (before malt bath)",
+        "",
+        "785g",
+        "",
+        ""
+      ],
+      [
+        "Bagel weight",
+        "",
+        "130g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost (incl. ~₹5 malt allowance)",
+        "",
+        "",
+        "",
+        "53.8"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Lean"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹420 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Cold fermentation — 18 hours."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — on traditional burlap boards after the malt bath."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Advance notice — 48 hours."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Malt bath: boiled briefly in water with barley malt for color and shine"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 bagels"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 130g dough weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 110g baked weight per piece"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Olive, Tomato & Rosemary Focaccia"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: FC-002    Version: 2.0 Base Flour: 285g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "8×8\" tray",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "285g",
+        "15.0"
+      ],
+      [
+        "Hydration / filter water",
+        "80%",
+        "228g",
+        "0.0"
+      ],
+      [
+        "Olive oil (dough)",
+        "10%",
+        "29g",
+        "40.6"
+      ],
+      [
+        "Olive oil (top/bottom/drizzle)",
+        "10%",
+        "29g",
+        "40.6"
+      ],
+      [
+        "Olive topping (olives mix)",
+        "10%",
+        "29g",
+        "20.3"
+      ],
+      [
+        "Semi-dried tomato (Roma, stovetop confit)",
+        "10%",
+        "29g",
+        "7.5"
+      ],
+      [
+        "Sea salt",
+        "2%",
+        "6g",
+        "0.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "3g",
+        "1.2"
+      ],
+      [
+        "Total ingredient cost (olives at placeholder price)",
+        "",
+        "",
+        "125.5"
+      ],
+      [
+        "Dough weight (before bake)",
+        "",
+        "~550g",
+        ""
+      ],
+      [
+        "Baked weight (~10% loss)",
+        "",
+        "~495g",
+        ""
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Delivery — Friday-Sunday only."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Price (base) — ₹420 (8×8-inch tray)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Single tray 8 x 8 inch"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 550g dough before toppings and finishing oil, based on 285g flour"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Semi-dried tomatoes: prepared fresh in-kitchen on bake day (not pre-packed). Roma tomatoes slow-cooked with crushed garlic in olive oil until semi-dried, finished with cracked black pepper and herbs (oregano, thyme, rosemary)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Garlic & Herb Knots"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: L-011    Version: 1.0 Base Flour: 430g MFC: 10%"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend (MFC 10%, incl. gluten)",
+        "100%",
+        "430g",
+        "",
+        "22.6"
+      ],
+      [
+        "Hydration",
+        "65%",
+        "280g",
+        "",
+        "0.0"
+      ],
+      [
+        "Olive oil",
+        "6%",
+        "25g",
+        "",
+        "35.0"
+      ],
+      [
+        "Sugar",
+        "2%",
+        "10",
+        "",
+        "0.6"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Garlic-butter glaze",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Dough weight",
+        "",
+        "760g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "90g x 8",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost",
+        "",
+        "",
+        "",
+        "60.0"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — Enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹260 (pack of 8 knots; glaze cost deferred)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 8 knots"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 90g each before baking"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 75g each after baking"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Cinnamon Rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-009    Version: 1.0 Base Flour:  415g MFC: 10% Dough: MSD1"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend",
+        "100%",
+        "415g",
+        "",
+        "21.8"
+      ],
+      [
+        "MSD1",
+        "",
+        "milk 85g, butter 40g, sugar 35g (total 160g)",
+        "",
+        "33.2"
+      ],
+      [
+        "Hydration (water only; milk in msd1)",
+        "40%",
+        "165g",
+        "",
+        "0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Shared dough allocation (before filling)",
+        "",
+        "752g",
+        "",
+        ""
+      ],
+      [
+        "Filling",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Fresh white butter",
+        "14%",
+        "60g",
+        "",
+        "37.8"
+      ],
+      [
+        "Sugar",
+        "25%",
+        "105g",
+        "",
+        "6.3"
+      ],
+      [
+        "Cinnamon",
+        "3%",
+        "13g",
+        "",
+        "15.6"
+      ],
+      [
+        "Finished dough weight (incl. filling)",
+        "",
+        "930g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "150g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost (incl. MSD1 dough)",
+        "",
+        "",
+        "",
+        "116.6"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹420 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 150g each before baking"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Test1: reduce sugar to 25%. 2.5% cinnamon is good. May be also try 3% cinnamon."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Test 2026-07-09: baked 20 min. Crust a bit crisp, crumb somewhat drier than wanted. Ok but aiming softer/moister."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Next: bake 18 min at 165C, fan 1. Glaze with milk and sugar. Cover loosely for first 5 min out of the oven to soften crust."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Spread was insufficient. Fix: cream butter + sugar + cinnamon into a smooth spreadable paste (butter at room temp, soft not melted) and spread evenly; roll dough slightly thicker, less in length and more in width to have more spirals. May be 2 inch each, so total 12inch in length."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Anti-unwind: leave 1in bare (no filling) strip at far edge and brush with water; roll snug with thin even filling; pinch seam and place seam-down and touching in tin; cut with floss/sharp knife; proof well; bake 165C (avoid too-hot start)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Chill to roll: after bulk/first proof, shape rectangle then chill approx 30-60 min so dough is firm and easy to roll. Then fill, roll, cut, and do the FINAL proof in the tin before baking (do not full-proof before rolling)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Chocolate Babka Buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-010    Version: 1.0 Base Flour: 400g MFC: 10% Dough: MSD1"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend",
+        "100%",
+        "400g",
+        "",
+        "21.0"
+      ],
+      [
+        "MSD1",
+        "",
+        "milk 80g, butter 40g, sugar 32g (total 152g)",
+        "",
+        "32.7"
+      ],
+      [
+        "Hydration (water only)",
+        "40%",
+        "160g",
+        "",
+        "0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "8g",
+        "",
+        "0.3"
+      ],
+      [
+        "Shared dough allocation (before filling)",
+        "",
+        "724g",
+        "",
+        ""
+      ],
+      [
+        "Filling",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Fresh white butter",
+        "10%",
+        "40g",
+        "",
+        "25.2"
+      ],
+      [
+        "Chocolate\nVan Houten 46.5% dark couverture",
+        "35%",
+        "140g",
+        "",
+        "168.0"
+      ],
+      [
+        "Cocoa\nVan Houten Intense Dark Cocoa Powder",
+        "2%",
+        "8g",
+        "",
+        "13.6"
+      ],
+      [
+        "Sugar (brown sugar)",
+        "6%",
+        "24g",
+        "",
+        "2.4"
+      ],
+      [
+        "Finished dough weight (incl. filling)",
+        "",
+        "936g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "150g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost (incl. MSD1 dough)",
+        "",
+        "",
+        "",
+        "264.7"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹720 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 rolls"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 150g each before baking"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Test 2026-07-09: baked 20 min together with cinnamon rolls. Crust a bit hard/not soft. Aiming softer."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Next: bake 18 min at 165C, fan 1. Glaze with milk and sugar. Cover loosely for first 5 min out of the oven to soften crust. Shares MSD1 base with cinnamon rolls."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Filling looked dry during bake and did not ooze (couverture sets firm; butter too low at 5%). Next: raise filling butter to 10%. Cocoa 2% ok."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Anti-unwind: leave 1in bare (no filling) strip at far edge and brush with water; roll snug with thin even filling; pinch seam and place seam-down and touching in tin; cut with floss/sharp knife; proof well; bake 165C (avoid too-hot start)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Chill to roll: after bulk/first proof, shape rectangle then chill approx 30-60 min so dough is firm and easy to roll. Then fill, roll, cut, and do the FINAL proof in the tin before baking (do not full-proof before rolling)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 1",
+    "text": "Nordic Cardamom Buns (Kardemummabullar)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Code: BR-011    Version: 1.0 Base Flour: 425g MFC: 10% Dough: MSD1"
+  },
+  {
+    "type": "table",
+    "rows": [
+      [
+        "Ingredient",
+        "Baker's %",
+        "Quantity",
+        "Unit Cost",
+        "Total Cost"
+      ],
+      [
+        "Flour blend",
+        "100%",
+        "425g",
+        "",
+        "22.3"
+      ],
+      [
+        "MSD1",
+        "",
+        "milk 85g, butter 43g, sugar 34g (total 162g)",
+        "",
+        "35.1"
+      ],
+      [
+        "Hydration (water only)",
+        "40%",
+        "170g",
+        "",
+        "0"
+      ],
+      [
+        "Yeast",
+        "1%",
+        "4g",
+        "",
+        "1.5"
+      ],
+      [
+        "Salt",
+        "2%",
+        "9g",
+        "",
+        "0.4"
+      ],
+      [
+        "Shared dough allocation (before cardamom/filling)",
+        "",
+        "770g",
+        "",
+        ""
+      ],
+      [
+        "Cardamom",
+        "1.5%",
+        "6g",
+        "",
+        "42.0"
+      ],
+      [
+        "vanilla",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Filling",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Fresh white butter",
+        "14%",
+        "60g",
+        "",
+        "37.8"
+      ],
+      [
+        "Sugar (brown sugar)",
+        "18%",
+        "75g",
+        "",
+        "7.5"
+      ],
+      [
+        "Finished dough weight (incl. filling)",
+        "",
+        "911g",
+        "",
+        ""
+      ],
+      [
+        "Rolls weight",
+        "",
+        "150g x 6",
+        "",
+        ""
+      ],
+      [
+        "Total ingredient cost (incl. MSD1 dough) (excl. deferred items)",
+        "",
+        "",
+        "",
+        "146.6"
+      ]
+    ]
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Dough type — High enriched"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Bake — 18 mins, dry, fan speed 1, 165°C."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Price (base) — ₹480 (pack of 6)"
+  },
+  {
+    "type": "paragraph",
+    "style": "Heading 2",
+    "text": "Notes"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Set of 6 buns"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Approx 150g each before baking"
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Anti-unwind: leave 1in bare (no filling) strip at far edge and brush with water; roll snug with thin even filling; pinch seam and place seam-down and touching in tin; cut with floss/sharp knife; proof well; bake 165C (avoid too-hot start)."
+  },
+  {
+    "type": "paragraph",
+    "style": "Normal",
+    "text": "Chill to roll: after bulk/first proof, shape rectangle then chill approx 30-60 min so dough is firm and easy to roll. Then fill, roll, cut, and do the FINAL proof in the tin before baking (do not full-proof before rolling)."
+  }
+]
