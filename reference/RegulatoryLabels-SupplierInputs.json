@@ -2,15 +2,16 @@
   "status": "Supplier-label transcription; confirm against packaging retained in production records",
   "ingredients": {
     "oliveMix50_50": {
-      "basis": "Equal drained-and-rinsed weights of Kalamata olives and black olives",
+      "basis": "Equal drained-and-rinsed weights of Spanish green olives and Spanish black olives",
       "usedIn": [
         "L-008 Olive Loaf",
         "FC-002 Olive, Tomato & Rosemary Focaccia"
       ],
       "nutritionTreatment": "Use supplier per-100g panels as a conservative proxy. Both olives are drained and rinsed before weighing, so calculated sodium is likely overstated; no unsupported rinse-reduction factor is applied.",
-      "kalamataOlives": {
+      "note": "PLACEHOLDER: green-olive sub-ingredients and nutrition below are carried over from the previous Kalamata supplier panel; replace with the actual Spanish green-olive jar (e.g. Figaro/Del Monte) declaration and per-100g nutrition, then recompute calculatedNutritionPer100g.",
+      "spanishGreenOlives": {
         "supplierDeclaration": [
-          { "name": "Kalamata olives", "percent": 60.6 },
+          { "name": "green olives", "percent": 60.6 },
           { "name": "water", "percent": 34.4 },
           { "name": "sea salt", "percent": 3.0 },
           { "name": "red wine vinegar", "percent": 1.4 },

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100mm" height="150mm" viewBox="0 0 1000 1500" role="img" aria-labelledby="title description">
-  <title id="title">TRANCHE Olive, Tomato &amp; Rosemary Focaccia regulatory label content proof</title>
-  <description id="description">Content-final product proof for Olive, Tomato &amp; Rosemary Focaccia with recipe-based approximate nutrition.</description>
+  <title id="title">TRANCHE Olive, Tomato & Rosemary Focaccia regulatory label content proof</title>
+  <description id="description">Content-final product proof for Olive, Tomato & Rosemary Focaccia with recipe-based approximate nutrition.</description>
 
   <rect width="1000" height="1500" fill="#faf7f2"/>
   <rect x="20" y="20" width="960" height="1460" rx="8" fill="none" stroke="#5a3e2b" stroke-width="2"/>
@@ -10,7 +10,7 @@
     <text x="40" y="70" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" letter-spacing="3">TRANCHÉ</text>
     <text x="40" y="98" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="2">ARTISAN BAKERY</text>
 
-    <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Olive, Tomato &amp; Rosemary Focaccia</text>
+    <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Olive, Tomato & Rosemary Focaccia</text>
     <text x="40" y="183" font-size="20">8x8 inch tray focaccia with olives, semi-dried tomatoes and rosemary</text>
 
     <g transform="translate(895 50)">
@@ -21,7 +21,7 @@
     <line x1="40" y1="210" x2="960" y2="210" stroke="#c69c6d" stroke-width="2"/>
 
     <text x="40" y="245" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">INGREDIENTS</text>
-    <text x="40" y="258" font-size="14"><tspan x="40" y="258">Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive</tspan><tspan x="40" y="274">oil, olive mix (50% Kalamata olives [Kalamata olives, water, sea salt, red wine vinegar and extra virgin</tspan><tspan x="40" y="290">olive oil] and 50% black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), semi-dried</tspan><tspan x="40" y="306">tomatoes (tomatoes, olive oil, garlic, black pepper, oregano, thyme and rosemary), sea salt and instant</tspan><tspan x="40" y="322">yeast.</tspan></text>
+    <text x="40" y="258" font-size="14"><tspan x="40" y="258">Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive</tspan><tspan x="40" y="274">oil, olive mix (50% Spanish green olives [green olives, water, sea salt, red wine vinegar and extra virgin</tspan><tspan x="40" y="290">olive oil] and 50% Spanish black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), semi-dried</tspan><tspan x="40" y="306">tomatoes (tomatoes, olive oil, garlic, black pepper, oregano, thyme and rosemary), sea salt and instant</tspan><tspan x="40" y="322">yeast.</tspan></text>
 
     <text x="40" y="350" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">ALLERGEN INFORMATION</text>
     <text x="40" y="382" font-size="20" font-weight="700">Contains wheat and gluten.</text>
@@ -71,7 +71,7 @@
       <text x="940" y="1140" font-size="15" text-anchor="end">MRP inclusive of all taxes</text>
     </g>
 
-    <text x="40" y="1200" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.2">MANUFACTURED &amp; PACKED BY</text>
+    <text x="40" y="1200" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.2">MANUFACTURED & PACKED BY</text>
     <text x="40" y="1231" font-size="21" font-weight="700">TRANCHE</text>
     <text x="40" y="1260" font-size="19">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text>
     <text x="40" y="1294" font-size="18">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057</text>

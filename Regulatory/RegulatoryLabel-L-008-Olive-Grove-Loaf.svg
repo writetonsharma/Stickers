@@ -11,7 +11,7 @@
     <text x="40" y="98" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="2">ARTISAN BAKERY</text>
 
     <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700">Olive Loaf</text>
-    <text x="40" y="183" font-size="20">Soft wheat loaf with Kalamata and black olives</text>
+    <text x="40" y="183" font-size="20">Soft wheat loaf with Spanish green and black olives</text>
 
     <g transform="translate(895 50)">
       <rect width="60" height="60" fill="#ffffff" stroke="#008a3b" stroke-width="5"/>
@@ -21,7 +21,7 @@
     <line x1="40" y1="210" x2="960" y2="210" stroke="#c69c6d" stroke-width="2"/>
 
     <text x="40" y="245" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">INGREDIENTS</text>
-    <text x="40" y="266" font-size="15"><tspan x="40" y="266">Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive mix</tspan><tspan x="40" y="284">(50% Kalamata olives [Kalamata olives, water, sea salt, red wine vinegar and extra virgin olive oil] and 50%</tspan><tspan x="40" y="302">black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), olive oil, salt and instant</tspan><tspan x="40" y="320">yeast.</tspan></text>
+    <text x="40" y="266" font-size="15"><tspan x="40" y="266">Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, olive mix</tspan><tspan x="40" y="284">(50% Spanish green olives [green olives, water, sea salt, red wine vinegar and extra virgin olive oil] and 50%</tspan><tspan x="40" y="302">Spanish black olives [water, black olives, salt and stabilizer (ferrous gluconate)]), olive oil, salt and instant</tspan><tspan x="40" y="320">yeast.</tspan></text>
 
     <text x="40" y="350" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">ALLERGEN INFORMATION</text>
     <text x="40" y="382" font-size="20" font-weight="700">Contains wheat and gluten.</text>
@@ -71,7 +71,7 @@
       <text x="940" y="1140" font-size="15" text-anchor="end">MRP inclusive of all taxes</text>
     </g>
 
-    <text x="40" y="1200" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.2">MANUFACTURED &amp; PACKED BY</text>
+    <text x="40" y="1200" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.2">MANUFACTURED & PACKED BY</text>
     <text x="40" y="1231" font-size="21" font-weight="700">TRANCHE</text>
     <text x="40" y="1260" font-size="19">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text>
     <text x="40" y="1294" font-size="18">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057</text>
