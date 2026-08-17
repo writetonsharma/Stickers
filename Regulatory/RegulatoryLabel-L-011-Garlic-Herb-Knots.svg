@@ -11,7 +11,7 @@
     <text x="40" y="98" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="2">ARTISAN BAKERY</text>
 
     <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700">Garlic &amp; Herb Knots</text>
-    <text x="40" y="183" font-size="20">10 soft knots finished with garlic-herb butter</text>
+    <text x="40" y="183" font-size="20">8 soft knots finished with garlic-herb butter</text>
 
     <g transform="translate(895 50)">
       <rect width="60" height="60" fill="#ffffff" stroke="#008a3b" stroke-width="5"/>
