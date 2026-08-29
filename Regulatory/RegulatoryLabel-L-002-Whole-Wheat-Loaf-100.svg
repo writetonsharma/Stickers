@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100mm" height="150mm" viewBox="0 0 1000 1500" role="img" aria-labelledby="title description">
-  <title id="title">TRANCHE Whole Wheat Loaf 80% regulatory label content proof</title>
-  <description id="description">Content-final product proof for Whole Wheat Loaf 80% with recipe-based approximate nutrition.</description>
+  <title id="title">TRANCHE Whole Wheat Loaf regulatory label content proof</title>
+  <description id="description">Content-final product proof for Whole Wheat Loaf with recipe-based approximate nutrition.</description>
 
   <rect width="1000" height="1500" fill="#faf7f2"/>
   <rect x="20" y="20" width="960" height="1460" rx="8" fill="none" stroke="#5a3e2b" stroke-width="2"/>
@@ -10,8 +10,8 @@
     <text x="40" y="70" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-weight="700" letter-spacing="3">TRANCHÉ</text>
     <text x="40" y="98" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="2">ARTISAN BAKERY</text>
 
-    <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700">Whole Wheat Loaf 80%</text>
-    <text x="40" y="183" font-size="20">Hearty loaf made with 80% whole wheat flour</text>
+    <text x="40" y="151" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700">Whole Wheat Loaf</text>
+    <text x="40" y="183" font-size="20">Hearty loaf made with 100% whole wheat flour</text>
 
     <g transform="translate(895 50)">
       <rect width="60" height="60" fill="#ffffff" stroke="#008a3b" stroke-width="5"/>
@@ -21,7 +21,7 @@
     <line x1="40" y1="210" x2="960" y2="210" stroke="#c69c6d" stroke-width="2"/>
 
     <text x="40" y="245" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">INGREDIENTS</text>
-    <text x="40" y="274" font-size="18"><tspan x="40" y="274">Wheat flour blend (whole wheat flour, refined wheat flour and vital wheat gluten), filtered</tspan><tspan x="40" y="298">water, salt and instant yeast.</tspan></text>
+    <text x="40" y="274" font-size="18"><tspan x="40" y="274">Whole wheat flour, vital wheat gluten, filtered water, salt and instant yeast.</tspan></text>
 
     <text x="40" y="350" fill="#6e7750" font-size="17" font-weight="700" letter-spacing="1.5">ALLERGEN INFORMATION</text>
     <text x="40" y="382" font-size="20" font-weight="700">Contains wheat and gluten.</text>
@@ -45,11 +45,11 @@
 
       <text x="58" y="528" font-weight="700">Nutrient</text>
       <text x="940" y="528" font-weight="700" text-anchor="end">Per 100 g</text>
-      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">209 kcal</text>
-      <text x="58" y="612">Protein</text><text x="940" y="612" text-anchor="end">9.6 g</text>
-      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">42.5 g</text>
+      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">206 kcal</text>
+      <text x="58" y="612">Protein</text><text x="940" y="612" text-anchor="end">9.9 g</text>
+      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">42.0 g</text>
       <text x="78" y="696">Total sugars / Added sugars</text><text x="940" y="696" text-anchor="end">0.2 g / 0.0 g</text>
-      <text x="58" y="738">Total fat</text><text x="940" y="738" text-anchor="end">1.3 g</text>
+      <text x="58" y="738">Total fat</text><text x="940" y="738" text-anchor="end">1.4 g</text>
       <text x="78" y="780">Saturated fat / Trans fat</text><text x="940" y="780" text-anchor="end">0.2 g / 0.0 g</text>
       <text x="58" y="822">Sodium</text><text x="940" y="822" text-anchor="end">422 mg</text>
     </g>

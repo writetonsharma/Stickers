@@ -7,8 +7,7 @@ All nutrition values are recipe-based approximations per 100 g, calculated from 
 | Code | Product | Yield basis | kcal | Protein g | Carbohydrate g | Sugars / added g | Fat g | Saturated / trans g | Sodium mg |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | L-001 | Classic Table White | 665 g | 218 | 8.2 | 44.3 | 0.2 / 0.0 | 0.8 | 0.1 / 0.0 | 474 |
-| L-002 | Whole Wheat Loaf 50% | 750 g | 213 | 9.1 | 43.2 | 0.2 / 0.0 | 1.1 | 0.2 / 0.0 | 422 |
-| L-003 | Whole Wheat Loaf 80% | 750 g | 209 | 9.6 | 42.5 | 0.2 / 0.0 | 1.3 | 0.2 / 0.0 | 422 |
+| L-002 | Whole Wheat Loaf | 750 g | 206 | 9.9 | 42.0 | 0.2 / 0.0 | 1.4 | 0.2 / 0.0 | 422 |
 | L-004 | Multi-Seed Loaf | 765 g | 234 | 9.7 | 40.0 | 0.3 / 0.0 | 4.7 | 0.6 / 0.0 | 415 |
 | L-006 | Milk & Butter Loaf | 740 g | 267 | 8.7 | 44.4 | 4.6 / 2.7 | 6.1 | 3.5 / 0.2 | 445 |
 | L-007 | Honey & Walnut Loaf | 765 g | 248 | 9.1 | 42.0 | 3.7 / 3.3 | 5.9 | 0.6 / 0.0 | 368 |
