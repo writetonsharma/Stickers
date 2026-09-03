@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65mm" height="90mm" viewBox="0 0 650 900" role="img" aria-labelledby="title description">
+  <title id="title">TRANCHE sweet-roll care card back</title>
+  <description id="description">The care-instruction side of a 65 by 90 millimetre threaded card for sweet rolls.</description>
+
+  <rect width="650" height="900" fill="#faf7f2"/>
+  <rect x="18" y="18" width="614" height="864" rx="5" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+  <circle cx="325" cy="47" r="12" fill="#faf7f2" stroke="#5a3e2b" stroke-width="2"/>
+
+  <g fill="#2b2b2b" font-family="Arial, Helvetica, sans-serif">
+    <text x="325" y="112" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="35" font-weight="700" text-anchor="middle">CARE FOR SWEET ROLLS</text>
+    <text x="325" y="148" fill="#6e7750" font-size="15" font-weight="700" letter-spacing="2" text-anchor="middle">KEEP THEM SOFT, FRESH AND DELICIOUS</text>
+
+    <g font-size="19">
+      <g transform="translate(54 199)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="21" cy="21" r="19"/><path d="M21 9v12l9 5"/>
+      </g>
+      <text x="110" y="210" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">BEST WITHIN 2 DAYS</text>
+      <text x="110" y="240">Enjoy them at their freshest and softest.</text>
+
+      <g transform="translate(54 288)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="4" y="14" width="34" height="26" rx="3"/><path d="M2 14h38M14 8h14v6"/>
+      </g>
+      <text x="110" y="300" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">STORE AT ROOM TEMPERATURE</text>
+      <text x="110" y="330">Airtight, away from heat and moisture.</text>
+
+      <g transform="translate(55 379)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="5" y="1" width="30" height="40" rx="4"/><path d="M5 17h30M29 8v4M29 24v8"/>
+      </g>
+      <text x="110" y="390" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">REFRIGERATE UP TO 7 DAYS</text>
+      <text x="110" y="420">Airtight container; warm before serving.</text>
+
+      <g transform="translate(53 469)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round">
+        <path d="M20 0v40M3 10l34 20M37 10L3 30M13 4l7 6 7-6M13 36l7-6 7 6M2 18l9 2-3 9M38 18l-9 2 3 9"/>
+      </g>
+      <text x="110" y="480" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">FREEZE FOR A MONTH</text>
+      <text x="110" y="510">Thaw at room temperature, then warm.</text>
+
+      <g transform="translate(52 559)" fill="none" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="2" y="5" width="40" height="34" rx="3"/><path d="M2 14h40M9 10h1M17 10h1M11 31h22M14 26c-3-3 3-5 0-8M23 26c-3-3 3-5 0-8M32 26c-3-3 3-5 0-8"/>
+      </g>
+      <text x="110" y="570" fill="#5a3e2b" font-size="18" font-weight="700" letter-spacing="1">WARM TO SERVE</text>
+      <text x="110" y="600">Microwave 10–15s, or 3–5 min in a 160°C</text>
+      <text x="110" y="624">oven or air fryer — please don't toast.</text>
+    </g>
+
+    <line x1="55" y1="650" x2="595" y2="650" stroke="#c69c6d" stroke-width="2"/>
+
+    <image xlink:href="BreadCare-StorageQR.png" x="65" y="685" width="150" height="150" preserveAspectRatio="xMidYMid meet"/>
+    <text x="250" y="720" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-weight="700">MORE CARE GUIDANCE</text>
+    <text x="250" y="758" font-size="18">Scan for freezing, thawing</text>
+    <text x="250" y="786" font-size="18">and reheating instructions.</text>
+    <text x="250" y="824" fill="#6e7750" font-size="15" font-weight="700">tranchebakery.in/faq.html#storage-guide</text>
+  </g>
+</svg>
