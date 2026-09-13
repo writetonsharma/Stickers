@@ -4,24 +4,24 @@
   "products": [
     {
       "code": "L-001",
-      "yieldGrams": 750,
+      "yieldGrams": 645,
       "formulaGrams": {
-        "yeast": 5,
-        "salt": 9,
-        "white_flour": 346.9879518072289,
-        "whole_flour": 86.74698795180723,
-        "vital_gluten": 16.265060240963855
+        "yeast": 4,
+        "salt": 8,
+        "white_flour": 308.4,
+        "whole_flour": 77.1,
+        "vital_gluten": 14.5
       },
       "nutritionPer100g": {
-        "energyKcal": 218,
-        "proteinG": 8.2,
-        "carbohydrateG": 44.3,
+        "energyKcal": 225,
+        "proteinG": 8.4,
+        "carbohydrateG": 45.6,
         "totalSugarsG": 0.2,
         "addedSugarsG": 0.0,
-        "fatG": 0.8,
+        "fatG": 0.9,
         "saturatedFatG": 0.1,
         "transFatG": 0.0,
-        "sodiumMg": 474
+        "sodiumMg": 488
       }
     },
     {
@@ -204,17 +204,17 @@
       "formulaGrams": {
         "yeast": 5,
         "salt": 9,
-        "whole_flour": 342.85714285714283,
-        "white_flour": 85.71428571428571,
+        "whole_flour": 428.57142857142856,
+        "white_flour": 0,
         "vital_gluten": 21.428571428571427
       },
       "nutritionPer100g": {
-        "energyKcal": 238,
-        "proteinG": 11.0,
-        "carbohydrateG": 48.4,
+        "energyKcal": 235,
+        "proteinG": 11.3,
+        "carbohydrateG": 47.5,
         "totalSugarsG": 0.2,
         "addedSugarsG": 0.0,
-        "fatG": 1.5,
+        "fatG": 1.7,
         "saturatedFatG": 0.3,
         "transFatG": 0.0,
         "sodiumMg": 539

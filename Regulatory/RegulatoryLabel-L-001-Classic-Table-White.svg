@@ -45,13 +45,13 @@
 
       <text x="58" y="528" font-weight="700">Nutrient</text>
       <text x="940" y="528" font-weight="700" text-anchor="end">Per 100 g</text>
-      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">218 kcal</text>
-      <text x="58" y="612">Protein</text><text x="940" y="612" text-anchor="end">8.2 g</text>
-      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">44.3 g</text>
+      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">225 kcal</text>
+      <text x="58" y="612">Protein</text><text x="940" y="612" text-anchor="end">8.4 g</text>
+      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">45.6 g</text>
       <text x="78" y="696">Total sugars / Added sugars</text><text x="940" y="696" text-anchor="end">0.2 g / 0.0 g</text>
-      <text x="58" y="738">Total fat</text><text x="940" y="738" text-anchor="end">0.8 g</text>
+      <text x="58" y="738">Total fat</text><text x="940" y="738" text-anchor="end">0.9 g</text>
       <text x="78" y="780">Saturated fat / Trans fat</text><text x="940" y="780" text-anchor="end">0.1 g / 0.0 g</text>
-      <text x="58" y="822">Sodium</text><text x="940" y="822" text-anchor="end">474 mg</text>
+      <text x="58" y="822">Sodium</text><text x="940" y="822" text-anchor="end">488 mg</text>
     </g>
 
     <line x1="40" y1="858" x2="960" y2="858" stroke="#c69c6d" stroke-width="2"/>

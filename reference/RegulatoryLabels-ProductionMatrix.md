@@ -6,15 +6,15 @@ All nutrition values are recipe-based approximations per 100 g, calculated from 
 
 | Code | Product | Yield basis | kcal | Protein g | Carbohydrate g | Sugars / added g | Fat g | Saturated / trans g | Sodium mg |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| L-001 | Classic Table White | 665 g | 218 | 8.2 | 44.3 | 0.2 / 0.0 | 0.8 | 0.1 / 0.0 | 474 |
-| L-002 | Whole Wheat Loaf | 750 g | 206 | 9.9 | 42.0 | 0.2 / 0.0 | 1.4 | 0.2 / 0.0 | 422 |
+| L-001 | Classic Table White | 645 g | 225 | 8.4 | 45.6 | 0.2 / 0.0 | 0.9 | 0.1 / 0.0 | 488 |
+| L-002 | 100% Whole Wheat Loaf | 750 g | 206 | 9.9 | 42.0 | 0.2 / 0.0 | 1.4 | 0.2 / 0.0 | 422 |
 | L-004 | Multi-Seed Loaf | 765 g | 234 | 9.7 | 40.0 | 0.3 / 0.0 | 4.7 | 0.6 / 0.0 | 415 |
 | L-006 | Milk & Butter Loaf | 740 g | 267 | 8.7 | 44.4 | 4.6 / 2.7 | 6.1 | 3.5 / 0.2 | 445 |
 | L-007 | Honey & Walnut Loaf | 765 g | 248 | 9.1 | 42.0 | 3.7 / 3.3 | 5.9 | 0.6 / 0.0 | 368 |
 | L-008 | Olive Loaf | 740 g | 238 | 7.5 | 40.1 | 0.2 / 0.0 | 5.2 | 0.8 / 0.0 | 657 |
 | L-009 | Caramelized Onion Loaf | 665 g | 229 | 8.3 | 44.8 | 0.4 / 0.0 | 1.9 | 0.3 / 0.0 | 422 |
 | L-010 | Honey & Oat Loaf | 800 g | 268 | 8.8 | 48.2 | 4.8 / 3.6 | 4.5 | 2.3 / 0.1 | 361 |
-| BR-007 | Whole Wheat Rolls | 660 g | 238 | 11.0 | 48.4 | 0.2 / 0.0 | 1.5 | 0.3 / 0.0 | 539 |
+| BR-007 | 100% Whole Wheat Rolls | 660 g | 235 | 11.3 | 47.5 | 0.2 / 0.0 | 1.7 | 0.3 / 0.0 | 539 |
 | BR-008 | Multi-Seed Rolls | 660 g | 276 | 11.5 | 48.3 | 0.3 / 0.0 | 5.1 | 0.7 / 0.0 | 481 |
 | BR-006 | Milk Buns | 660 g | 329 | 10.3 | 56.2 | 6.2 / 4.5 | 7.1 | 4.0 / 0.2 | 552 |
 | BR-005 | Sesame Burger Buns | 660 g | 330 | 10.5 | 56.2 | 4.7 / 3.8 | 7.0 | 2.7 / 0.1 | 546 |
