@@ -580,6 +580,85 @@
         "transFatG": 0.4,
         "sodiumMg": 426
       }
+    },
+    {
+      "code": "TC-001",
+      "yieldGrams": 350,
+      "formulaGrams": {
+        "maida": 105,
+        "butter": 70,
+        "condensed_milk": 105,
+        "castor_sugar": 23,
+        "milk": 63,
+        "baking_powder": 3,
+        "salt": 1,
+        "vanilla": 1,
+        "lemon_essence": 0.55
+      },
+      "nutritionPer100g": {
+        "energyKcal": 386,
+        "proteinG": 6.2,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.9,
+        "addedSugarsG": 19.8,
+        "fatG": 19.7,
+        "saturatedFatG": 12.3,
+        "transFatG": 0.7,
+        "sodiumMg": 252
+      }
+    },
+    {
+      "code": "TC-002",
+      "yieldGrams": 360,
+      "formulaGrams": {
+        "maida": 105,
+        "butter": 70,
+        "condensed_milk": 105,
+        "castor_sugar": 23,
+        "milk": 73,
+        "baking_powder": 3,
+        "salt": 1,
+        "vanilla": 1,
+        "instant_coffee": 4,
+        "walnuts": 20
+      },
+      "nutritionPer100g": {
+        "energyKcal": 417,
+        "proteinG": 7.1,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.5,
+        "addedSugarsG": 19.2,
+        "fatG": 22.9,
+        "saturatedFatG": 12.4,
+        "transFatG": 0.7,
+        "sodiumMg": 247
+      }
+    },
+    {
+      "code": "TC-003",
+      "yieldGrams": 365,
+      "formulaGrams": {
+        "maida": 105,
+        "butter": 70,
+        "condensed_milk": 105,
+        "castor_sugar": 23,
+        "milk": 75,
+        "baking_powder": 3,
+        "salt": 1,
+        "vanilla": 2,
+        "cocoa": 8
+      },
+      "nutritionPer100g": {
+        "energyKcal": 377,
+        "proteinG": 6.5,
+        "carbohydrateG": 46.4,
+        "totalSugarsG": 23.1,
+        "addedSugarsG": 19.0,
+        "fatG": 19.3,
+        "saturatedFatG": 12.1,
+        "transFatG": 0.7,
+        "sodiumMg": 243
+      }
     }
   ]
 }

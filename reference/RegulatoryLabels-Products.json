@@ -441,6 +441,66 @@
         "transFatG": 0.4,
         "sodiumMg": 426
       }
+    },
+    {
+      "code": "TC-001",
+      "name": "Lemon Tea Cake",
+      "description": "Soft butter tea cake with a bright, fresh lemon finish",
+      "ingredients": "Refined wheat flour, sweetened condensed milk (milk solids, sugar), butter, whole milk, sugar, raising agent (baking powder), salt, natural vanilla, lemon flavour.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "1 tea cake",
+      "yieldGrams": 350,
+      "nutrition": {
+        "energyKcal": 386,
+        "proteinG": 6.2,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.9,
+        "addedSugarsG": 19.8,
+        "fatG": 19.7,
+        "saturatedFatG": 12.3,
+        "transFatG": 0.7,
+        "sodiumMg": 252
+      }
+    },
+    {
+      "code": "TC-002",
+      "name": "Coffee & Walnut Tea Cake",
+      "description": "Soft butter tea cake with espresso and toasted walnuts",
+      "ingredients": "Refined wheat flour, sweetened condensed milk (milk solids, sugar), butter, whole milk, sugar, walnuts (tree nuts), instant coffee, raising agent (baking powder), salt, natural vanilla.",
+      "allergens": "Contains wheat, gluten, milk and tree nuts (walnuts).",
+      "pack": "1 tea cake",
+      "yieldGrams": 360,
+      "nutrition": {
+        "energyKcal": 417,
+        "proteinG": 7.1,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.5,
+        "addedSugarsG": 19.2,
+        "fatG": 22.9,
+        "saturatedFatG": 12.4,
+        "transFatG": 0.7,
+        "sodiumMg": 247
+      }
+    },
+    {
+      "code": "TC-003",
+      "name": "Dark Chocolate Marble Tea Cake",
+      "description": "Soft vanilla butter tea cake marbled with dark cocoa",
+      "ingredients": "Refined wheat flour, sweetened condensed milk (milk solids, sugar), butter, whole milk, sugar, dark cocoa powder, raising agent (baking powder), salt, natural vanilla.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "1 tea cake",
+      "yieldGrams": 365,
+      "nutrition": {
+        "energyKcal": 377,
+        "proteinG": 6.5,
+        "carbohydrateG": 46.4,
+        "totalSugarsG": 23.1,
+        "addedSugarsG": 19.0,
+        "fatG": 19.3,
+        "saturatedFatG": 12.1,
+        "transFatG": 0.7,
+        "sodiumMg": 243
+      }
     }
   ]
 }

@@ -28,6 +28,9 @@ All nutrition values are recipe-based approximations per 100 g, calculated from 
 | BR-009 | Cinnamon Rolls | 560 g | 336 | 6.8 | 55.0 | 18.6 / 17.9 | 10.3 | 6.2 / 0.4 | 370 |
 | BR-010 | Chocolate Babka Buns | 560 g | 360 | 7.5 | 51.7 | 16.4 / 15.8 | 14.2 | 8.6 / 0.3 | 371 |
 | BR-011 | Nordic Cardamom Buns | 560 g | 333 | 7.2 | 52.4 | 15.0 / 14.3 | 10.8 | 6.5 / 0.4 | 426 |
+| TC-001 | Lemon Tea Cake | 350 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
+| TC-002 | Coffee & Walnut Tea Cake | 360 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
+| TC-003 | Dark Chocolate Marble Tea Cake | 365 g | 377 | 6.5 | 46.4 | 23.1 / 19.0 | 19.3 | 12.1 / 0.7 | 243 |
 
 ## Calculation Decisions
 
