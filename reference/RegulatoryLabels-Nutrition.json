@@ -583,7 +583,7 @@
     },
     {
       "code": "TC-001",
-      "yieldGrams": 350,
+      "yieldGrams": 375,
       "formulaGrams": {
         "maida": 105,
         "butter": 70,
@@ -609,7 +609,7 @@
     },
     {
       "code": "TC-002",
-      "yieldGrams": 360,
+      "yieldGrams": 375,
       "formulaGrams": {
         "maida": 105,
         "butter": 70,
@@ -636,7 +636,7 @@
     },
     {
       "code": "TC-003",
-      "yieldGrams": 365,
+      "yieldGrams": 375,
       "formulaGrams": {
         "maida": 105,
         "butter": 70,
