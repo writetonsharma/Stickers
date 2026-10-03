@@ -501,6 +501,26 @@
         "transFatG": 0.7,
         "sodiumMg": 243
       }
+    },
+    {
+      "code": "TC-004",
+      "name": "Vanilla Tea Cake",
+      "description": "Soft, plain butter tea cake with a pure vanilla finish",
+      "ingredients": "Refined wheat flour, sweetened condensed milk (milk solids, sugar), butter, whole milk, sugar, raising agent (baking powder), salt, natural vanilla.",
+      "allergens": "Contains wheat, gluten and milk.",
+      "pack": "1 tea cake",
+      "yieldGrams": 375,
+      "nutrition": {
+        "energyKcal": 386,
+        "proteinG": 6.2,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.9,
+        "addedSugarsG": 19.8,
+        "fatG": 19.7,
+        "saturatedFatG": 12.3,
+        "transFatG": 0.7,
+        "sodiumMg": 252
+      }
     }
   ]
 }

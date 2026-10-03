@@ -659,6 +659,31 @@
         "transFatG": 0.7,
         "sodiumMg": 243
       }
+    },
+    {
+      "code": "TC-004",
+      "yieldGrams": 375,
+      "formulaGrams": {
+        "maida": 105,
+        "butter": 70,
+        "condensed_milk": 105,
+        "castor_sugar": 23,
+        "milk": 64,
+        "baking_powder": 3,
+        "salt": 1,
+        "vanilla": 2
+      },
+      "nutritionPer100g": {
+        "energyKcal": 386,
+        "proteinG": 6.2,
+        "carbohydrateG": 46.9,
+        "totalSugarsG": 23.9,
+        "addedSugarsG": 19.8,
+        "fatG": 19.7,
+        "saturatedFatG": 12.3,
+        "transFatG": 0.7,
+        "sodiumMg": 252
+      }
     }
   ]
 }

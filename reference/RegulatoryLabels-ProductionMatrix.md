@@ -31,6 +31,7 @@ All nutrition values are recipe-based approximations per 100 g, calculated from 
 | TC-001 | Lemon Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
 | TC-002 | Coffee & Walnut Tea Cake | 375 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
 | TC-003 | Dark Chocolate Marble Tea Cake | 375 g | 377 | 6.5 | 46.4 | 23.1 / 19.0 | 19.3 | 12.1 / 0.7 | 243 |
+| TC-004 | Vanilla Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
 
 ## Calculation Decisions
 
