@@ -85,6 +85,7 @@
     {
       "code": "L-007",
       "name": "Honey & Walnut Loaf",
+      "selling": false,
       "description": "Whole wheat loaf with honey and walnuts",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, walnuts, honey, salt and instant yeast.",
       "allergens": "Contains wheat, gluten and walnuts (tree nuts).",
@@ -205,6 +206,7 @@
     {
       "code": "BR-006",
       "name": "Milk Buns",
+      "selling": false,
       "description": "Six soft buns enriched with milk, butter and cream",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), milk, filtered water, butter, cream, sugar, salt and instant yeast.",
       "allergens": "Contains wheat, gluten and milk.",
@@ -245,6 +247,7 @@
     {
       "code": "BR-001",
       "name": "Potato Buns",
+      "selling": false,
       "description": "Six soft buns made with potato, milk and butter",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, milk, plain cooked potato, butter, milk powder, salt and instant yeast.",
       "allergens": "Contains wheat, gluten and milk.",
@@ -285,6 +288,7 @@
     {
       "code": "BR-004",
       "name": "Kaiser Rolls",
+      "selling": false,
       "description": "Six crisp-topped malted wheat rolls",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, butter, salt, barley malt and instant yeast.",
       "allergens": "Contains wheat, barley, gluten and milk.",
@@ -325,6 +329,7 @@
     {
       "code": "BG-002",
       "name": "Caramelized Onion Bagel",
+      "selling": false,
       "description": "Six malt-boiled bagels with caramelized onions",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, caramelized onions (onions and olive oil), barley malt, salt and instant yeast.",
       "allergens": "Contains wheat, barley and gluten.",
@@ -425,6 +430,7 @@
     {
       "code": "BR-011",
       "name": "Nordic Cardamom Buns",
+      "selling": false,
       "description": "Four soft cardamom buns with a brown-sugar filling",
       "ingredients": "Wheat flour blend (refined wheat flour, whole wheat flour and vital wheat gluten), filtered water, butter, milk, brown sugar, sugar, sugar syrup (sugar and water), salt, cardamom and instant yeast.",
       "allergens": "Contains wheat, gluten and milk.",
@@ -465,6 +471,7 @@
     {
       "code": "TC-002",
       "name": "Coffee & Walnut Tea Cake",
+      "selling": false,
       "description": "Soft butter tea cake with espresso and toasted walnuts",
       "ingredients": "Refined wheat flour, sweetened condensed milk (milk solids, sugar), butter, whole milk, sugar, walnuts (tree nuts), instant coffee, raising agent (baking powder), salt, natural vanilla.",
       "allergens": "Contains wheat, gluten, milk and tree nuts (walnuts).",

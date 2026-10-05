@@ -101,6 +101,7 @@
     },
     {
       "code": "L-007",
+      "selling": false,
       "yieldGrams": 860,
       "formulaGrams": {
         "walnut": 65,
@@ -249,6 +250,7 @@
     },
     {
       "code": "BR-006",
+      "selling": false,
       "yieldGrams": 660,
       "formulaGrams": {
         "milk": 170,
@@ -301,6 +303,7 @@
     },
     {
       "code": "BR-001",
+      "selling": false,
       "yieldGrams": 660,
       "formulaGrams": {
         "potato": 82,
@@ -352,6 +355,7 @@
     },
     {
       "code": "BR-004",
+      "selling": false,
       "yieldGrams": 660,
       "formulaGrams": {
         "butter": 10,
@@ -399,6 +403,7 @@
     },
     {
       "code": "BG-002",
+      "selling": false,
       "yieldGrams": 660,
       "formulaGrams": {
         "barley_malt": 9,
@@ -555,6 +560,7 @@
     },
     {
       "code": "BR-011",
+      "selling": false,
       "yieldGrams": 840,
       "formulaGrams": {
         "milk": 83.97365532381998,
@@ -609,6 +615,7 @@
     },
     {
       "code": "TC-002",
+      "selling": false,
       "yieldGrams": 375,
       "formulaGrams": {
         "maida": 105,

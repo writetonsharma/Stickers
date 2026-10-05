@@ -4,32 +4,34 @@ Status: content-final proof set generated 21 July 2026. Printer dieline and comp
 
 All nutrition values are recipe-based approximations per 100 g, calculated from generic ingredient data, photographed supplier declarations where available, confirmed preparation assumptions and recorded baked yields. They are not laboratory analyses.
 
+Rows marked **(NOT SELLING)** are discontinued from the live menu (removed from the app and website). Their label data is retained here for records only and should not be treated as active products.
+
 | Code | Product | Yield basis | kcal | Protein g | Carbohydrate g | Sugars / added g | Fat g | Saturated / trans g | Sodium mg |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | L-001 | Classic Table White | 645 g | 225 | 8.4 | 45.6 | 0.2 / 0.0 | 0.9 | 0.1 / 0.0 | 488 |
 | L-002 | 100% Whole Wheat Loaf | 750 g | 206 | 9.9 | 42.0 | 0.2 / 0.0 | 1.4 | 0.2 / 0.0 | 422 |
 | L-004 | Multi-Seed Loaf | 765 g | 234 | 9.7 | 40.0 | 0.3 / 0.0 | 4.7 | 0.6 / 0.0 | 415 |
 | L-006 | Milk & Butter Loaf | 740 g | 267 | 8.7 | 44.4 | 4.6 / 2.7 | 6.1 | 3.5 / 0.2 | 445 |
-| L-007 | Honey & Walnut Loaf | 765 g | 248 | 9.1 | 42.0 | 3.7 / 3.3 | 5.9 | 0.6 / 0.0 | 368 |
+| L-007 | Honey & Walnut Loaf (NOT SELLING) | 765 g | 248 | 9.1 | 42.0 | 3.7 / 3.3 | 5.9 | 0.6 / 0.0 | 368 |
 | L-008 | Olive Loaf | 740 g | 238 | 7.5 | 40.1 | 0.2 / 0.0 | 5.2 | 0.8 / 0.0 | 657 |
 | L-009 | Caramelized Onion Loaf | 665 g | 229 | 8.3 | 44.8 | 0.4 / 0.0 | 1.9 | 0.3 / 0.0 | 422 |
 | L-010 | Honey & Oat Loaf | 800 g | 268 | 8.8 | 48.2 | 4.8 / 3.6 | 4.5 | 2.3 / 0.1 | 361 |
 | BR-007 | 100% Whole Wheat Rolls | 660 g | 235 | 11.3 | 47.5 | 0.2 / 0.0 | 1.7 | 0.3 / 0.0 | 539 |
 | BR-008 | Multi-Seed Rolls | 660 g | 276 | 11.5 | 48.3 | 0.3 / 0.0 | 5.1 | 0.7 / 0.0 | 481 |
-| BR-006 | Milk Buns | 660 g | 329 | 10.3 | 56.2 | 6.2 / 4.5 | 7.1 | 4.0 / 0.2 | 552 |
+| BR-006 | Milk Buns (NOT SELLING) | 660 g | 329 | 10.3 | 56.2 | 6.2 / 4.5 | 7.1 | 4.0 / 0.2 | 552 |
 | BR-005 | Sesame Burger Buns | 660 g | 330 | 10.5 | 56.2 | 4.7 / 3.8 | 7.0 | 2.7 / 0.1 | 546 |
-| BR-001 | Potato Buns | 660 g | 292 | 9.9 | 50.1 | 2.1 / 0.0 | 5.8 | 3.2 / 0.2 | 497 |
+| BR-001 | Potato Buns (NOT SELLING) | 660 g | 292 | 9.9 | 50.1 | 2.1 / 0.0 | 5.8 | 3.2 / 0.2 | 497 |
 | BR-003 | Bavarian Pretzel Buns | 660 g | 282 | 9.4 | 53.5 | 3.3 / 3.1 | 3.4 | 1.7 / 0.1 | 480 |
-| BR-004 | Kaiser Rolls | 660 g | 276 | 9.7 | 53.9 | 0.7 / 0.5 | 2.1 | 0.9 / 0.1 | 599 |
+| BR-004 | Kaiser Rolls (NOT SELLING) | 660 g | 276 | 9.7 | 53.9 | 0.7 / 0.5 | 2.1 | 0.9 / 0.1 | 599 |
 | BG-001 | Classic New York-Style Bagel | 660 g | 275 | 9.9 | 56.0 | 1.1 / 0.9 | 0.9 | 0.1 / 0.0 | 599 |
-| BG-002 | Caramelized Onion Bagel | 660 g | 269 | 9.1 | 52.1 | 1.4 / 0.8 | 2.4 | 0.3 / 0.0 | 539 |
+| BG-002 | Caramelized Onion Bagel (NOT SELLING) | 660 g | 269 | 9.1 | 52.1 | 1.4 / 0.8 | 2.4 | 0.3 / 0.0 | 539 |
 | FC-002 | Olive, Tomato & Rosemary Focaccia | 495 g | 332 | 7.9 | 44.0 | 0.8 / 0.0 | 13.8 | 1.9 / 0.0 | 580 |
 | L-011 | Garlic & Herb Knots | 600 g | 335 | 9.6 | 54.8 | 1.9 / 1.7 | 8.4 | 2.5 / 0.1 | 527 |
 | BR-009 | Cinnamon Rolls | 560 g | 336 | 6.8 | 55.0 | 18.6 / 17.9 | 10.3 | 6.2 / 0.4 | 370 |
 | BR-010 | Chocolate Babka Buns | 560 g | 360 | 7.5 | 51.7 | 16.4 / 15.8 | 14.2 | 8.6 / 0.3 | 371 |
-| BR-011 | Nordic Cardamom Buns | 560 g | 333 | 7.2 | 52.4 | 15.0 / 14.3 | 10.8 | 6.5 / 0.4 | 426 |
+| BR-011 | Nordic Cardamom Buns (NOT SELLING) | 560 g | 333 | 7.2 | 52.4 | 15.0 / 14.3 | 10.8 | 6.5 / 0.4 | 426 |
 | TC-001 | Lemon Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
-| TC-002 | Coffee & Walnut Tea Cake | 375 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
+| TC-002 | Coffee & Walnut Tea Cake (NOT SELLING) | 375 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
 | TC-003 | Dark Chocolate Marble Tea Cake | 375 g | 377 | 6.5 | 46.4 | 23.1 / 19.0 | 19.3 | 12.1 / 0.7 | 243 |
 | TC-004 | Vanilla Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
 
