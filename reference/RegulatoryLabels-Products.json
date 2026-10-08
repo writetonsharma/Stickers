@@ -528,6 +528,26 @@
         "transFatG": 0.7,
         "sodiumMg": 252
       }
+    },
+    {
+      "code": "TC-005",
+      "name": "Date & Walnut Tea Cake",
+      "description": "Moist date-sweetened tea cake with toasted walnuts",
+      "ingredients": "Whole milk, refined wheat flour, Kimia dates, butter, walnuts (tree nuts), raising agent (baking powder), cinnamon, salt and natural vanilla.",
+      "allergens": "Contains wheat, gluten, milk and tree nuts (walnuts).",
+      "pack": "1 tea cake",
+      "yieldGrams": 375,
+      "nutrition": {
+        "energyKcal": 365,
+        "proteinG": 5.3,
+        "carbohydrateG": 43.8,
+        "totalSugarsG": 19.6,
+        "addedSugarsG": 0.0,
+        "fatG": 20.0,
+        "saturatedFatG": 10.6,
+        "transFatG": 0.6,
+        "sodiumMg": 257
+      }
     }
   ]
 }

@@ -34,6 +34,7 @@ Rows marked **(NOT SELLING)** are discontinued from the live menu (removed from 
 | TC-002 | Coffee & Walnut Tea Cake (NOT SELLING) | 375 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
 | TC-003 | Dark Chocolate Marble Tea Cake | 375 g | 377 | 6.5 | 46.4 | 23.1 / 19.0 | 19.3 | 12.1 / 0.7 | 243 |
 | TC-004 | Vanilla Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
+| TC-005 | Date & Walnut Tea Cake | 375 g | 365 | 5.3 | 43.8 | 19.6 / 0.0 | 20.0 | 10.6 / 0.6 | 257 |
 
 ## Calculation Decisions
 

@@ -691,6 +691,32 @@
         "transFatG": 0.7,
         "sodiumMg": 252
       }
+    },
+    {
+      "code": "TC-005",
+      "yieldGrams": 375,
+      "formulaGrams": {
+        "maida": 105,
+        "butter": 70,
+        "kimia_dates": 100,
+        "milk": 120,
+        "walnuts": 20,
+        "baking_powder": 4,
+        "salt": 1,
+        "vanilla": 1,
+        "cinnamon": 1
+      },
+      "nutritionPer100g": {
+        "energyKcal": 365,
+        "proteinG": 5.3,
+        "carbohydrateG": 43.8,
+        "totalSugarsG": 19.6,
+        "addedSugarsG": 0.0,
+        "fatG": 20.0,
+        "saturatedFatG": 10.6,
+        "transFatG": 0.6,
+        "sodiumMg": 257
+      }
     }
   ]
 }
