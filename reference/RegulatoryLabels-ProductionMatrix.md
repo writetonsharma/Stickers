@@ -10,6 +10,7 @@ Rows marked **(NOT SELLING)** are discontinued from the live menu (removed from 
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | L-001 | Classic Table White | 645 g | 225 | 8.4 | 45.6 | 0.2 / 0.0 | 0.9 | 0.1 / 0.0 | 488 |
 | L-002 | 100% Whole Wheat Loaf | 750 g | 206 | 9.9 | 42.0 | 0.2 / 0.0 | 1.4 | 0.2 / 0.0 | 422 |
+| L-012 | Millet & Whole Wheat Loaf (Ragi) | 725 g | 213 | 8.4 | 42.2 | 0.3 / 0.0 | 1.0 | 0.2 / 0.0 | 493 |
 | L-004 | Multi-Seed Loaf | 765 g | 234 | 9.7 | 40.0 | 0.3 / 0.0 | 4.7 | 0.6 / 0.0 | 415 |
 | L-006 | Milk & Butter Loaf | 740 g | 267 | 8.7 | 44.4 | 4.6 / 2.7 | 6.1 | 3.5 / 0.2 | 445 |
 | L-007 | Honey & Walnut Loaf (NOT SELLING) | 765 g | 248 | 9.1 | 42.0 | 3.7 / 3.3 | 5.9 | 0.6 / 0.0 | 368 |

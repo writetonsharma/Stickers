@@ -43,6 +43,26 @@
       }
     },
     {
+      "code": "L-012",
+      "name": "Millet & Whole Wheat Loaf (Ragi)",
+      "description": "Whole-grain loaf of ragi (finger millet) and whole wheat, no refined flour",
+      "ingredients": "Finger millet (ragi) flour, whole wheat flour, vital wheat gluten, filtered water, salt and instant yeast.",
+      "allergens": "Contains wheat and gluten.",
+      "pack": "1 loaf",
+      "yieldGrams": 725,
+      "nutrition": {
+        "energyKcal": 213,
+        "proteinG": 8.4,
+        "carbohydrateG": 42.2,
+        "totalSugarsG": 0.3,
+        "addedSugarsG": 0.0,
+        "fatG": 1.0,
+        "saturatedFatG": 0.2,
+        "transFatG": 0.0,
+        "sodiumMg": 493
+      }
+    },
+    {
       "code": "L-004",
       "name": "Multi-Seed Loaf",
       "description": "Whole wheat loaf with sesame, flax, chia, pumpkin and sunflower seeds",

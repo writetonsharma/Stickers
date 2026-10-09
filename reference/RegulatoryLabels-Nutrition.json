@@ -46,6 +46,28 @@
       }
     },
     {
+      "code": "L-012",
+      "yieldGrams": 725,
+      "formulaGrams": {
+        "yeast": 4.5,
+        "salt": 9,
+        "ragi_flour": 225,
+        "whole_flour": 200,
+        "vital_gluten": 25
+      },
+      "nutritionPer100g": {
+        "energyKcal": 213,
+        "proteinG": 8.4,
+        "carbohydrateG": 42.2,
+        "totalSugarsG": 0.3,
+        "addedSugarsG": 0.0,
+        "fatG": 1.0,
+        "saturatedFatG": 0.2,
+        "transFatG": 0.0,
+        "sodiumMg": 493
+      }
+    },
+    {
       "code": "L-004",
       "yieldGrams": 860,
       "formulaGrams": {
