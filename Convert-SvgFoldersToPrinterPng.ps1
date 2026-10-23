@@ -6,13 +6,16 @@ param(
 
     [Parameter()]
     [ValidateRange(72, 1200)]
-    [int]$Dpi = 300
+    [int]$Dpi = 300,
+
+    [Parameter()]
+    [ValidateNotNullOrEmpty()]
+    [string[]]$SourceFolderNames = @('logo', 'Regulatory', 'seal', 'Thankyou', 'Gifthampers\Artwork')
 )
 
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
 
-$sourceFolderNames = @('logo', 'Regulatory', 'seal', 'Thankyou')
 $millimetrePattern = '^\s*(\d+(?:\.\d+)?)\s*mm\s*$'
 
 if ([string]::IsNullOrWhiteSpace($RootPath)) {
@@ -111,6 +114,43 @@ function Get-PngProperties {
     }
 }
 
+function New-SelfContainedSvg {
+    param(
+        [Parameter(Mandatory)]
+        [string]$SvgPath,
+
+        [Parameter(Mandatory)]
+        [string]$DestinationPath
+    )
+
+    $svgDirectory = Split-Path -Parent $SvgPath
+    $content = [IO.File]::ReadAllText($SvgPath, [Text.Encoding]::UTF8)
+    $references = [regex]::Matches($content, '(?:href|xlink:href)="([^"#][^"]*)"') |
+        ForEach-Object { $_.Groups[1].Value } |
+        Where-Object { $_ -notmatch '^(?:data:|https?://)' } |
+        Sort-Object -Unique
+
+    foreach ($reference in $references) {
+        $assetPath = [IO.Path]::GetFullPath((Join-Path $svgDirectory $reference))
+        if (-not (Test-Path -LiteralPath $assetPath -PathType Leaf)) {
+            throw "Linked SVG asset was not found: $reference in $SvgPath"
+        }
+
+        $mimeType = switch ([IO.Path]::GetExtension($assetPath).ToLowerInvariant()) {
+            '.png' { 'image/png' }
+            '.jpg' { 'image/jpeg' }
+            '.jpeg' { 'image/jpeg' }
+            '.gif' { 'image/gif' }
+            '.webp' { 'image/webp' }
+            default { throw "Unsupported linked SVG asset type: $assetPath" }
+        }
+        $dataUri = "data:$mimeType;base64,$([Convert]::ToBase64String([IO.File]::ReadAllBytes($assetPath)))"
+        $content = $content.Replace($reference, $dataUri)
+    }
+
+    [IO.File]::WriteAllText($DestinationPath, $content, [Text.UTF8Encoding]::new($false))
+}
+
 $root = (Resolve-Path -LiteralPath $RootPath).Path
 $magick = Get-ImageMagickPath
 
@@ -155,27 +195,24 @@ foreach ($folderName in $sourceFolderNames) {
         }
         $destination = Join-Path $destinationFolder ([IO.Path]::GetFileName($relativePngPath))
         $temporary = Join-Path $destinationFolder "$($svg.BaseName).rendering.png"
+        $renderSource = Join-Path $destinationFolder "$($svg.BaseName).rendering.svg"
 
         New-Item -ItemType Directory -Path $destinationFolder -Force | Out-Null
         Remove-Item -LiteralPath $temporary -Force -ErrorAction SilentlyContinue
+        Remove-Item -LiteralPath $renderSource -Force -ErrorAction SilentlyContinue
 
         $expected = Get-ExpectedPixelSize -SvgPath $svg.FullName -RenderDpi $Dpi
 
         try {
-            Push-Location -LiteralPath $svg.DirectoryName
-            try {
-                & $magick `
-                    -density $Dpi `
-                    -background none `
-                    $svg.Name `
-                    -units PixelsPerInch `
-                    -density $Dpi `
-                    -define 'png:exclude-chunks=date,time' `
-                    $temporary
-            }
-            finally {
-                Pop-Location
-            }
+            New-SelfContainedSvg -SvgPath $svg.FullName -DestinationPath $renderSource
+            & $magick `
+                -density $Dpi `
+                -background none `
+                $renderSource `
+                -units PixelsPerInch `
+                -density $Dpi `
+                -define 'png:exclude-chunks=date,time' `
+                $temporary
 
             if ($LASTEXITCODE -ne 0 -or -not (Test-Path -LiteralPath $temporary -PathType Leaf)) {
                 throw "ImageMagick failed to render: $($svg.FullName)"
@@ -195,6 +232,7 @@ foreach ($folderName in $sourceFolderNames) {
         }
         finally {
             Remove-Item -LiteralPath $temporary -Force -ErrorAction SilentlyContinue
+            Remove-Item -LiteralPath $renderSource -Force -ErrorAction SilentlyContinue
         }
     }
 }
