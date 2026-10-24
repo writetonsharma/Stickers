@@ -1,4 +1,22 @@
 logo - 75mm
 Sealing sticker - 50mm x 150mm
-Regulatory - 100x150mm
+Regulatory (standard) - 100mm x 150mm
+Regulatory (brownies) - 135mm x 65mm
+Regulatory (plain biscotti) - 89mm x 127mm
+Regulatory (dipped biscotti) - 89mm x 127mm
 thank you - 65x90mm
+
+Connected jar label (cookies) - 
+256mm x 166mm finished silhouette; 
+Connecting strip: 46 × 16 mm
+Body wrap: 256 × 72 mm
+
+Connected jar label (garlic butter) - 
+206mm x 128mm finished silhouette; 
+Lid circle: 48 mm diameter
+Connecting strip: 30 × 16 mm
+Body wrap: 206 × 50 mm
+
+
+Ordering QR (including white quiet zone): standard 24mm; brownies 20mm; biscotti approx. 22mm; cookie jar 29mm; garlic-butter jar 24mm.
+Print at 100% / actual size. Keep QR quiet zone intact; scan-test on final packaging before print release.

@@ -558,15 +558,75 @@
       "pack": "1 tea cake",
       "yieldGrams": 375,
       "nutrition": {
-        "energyKcal": 365,
+        "energyKcal": 366,
         "proteinG": 5.3,
-        "carbohydrateG": 43.8,
-        "totalSugarsG": 19.6,
+        "carbohydrateG": 43.9,
+        "totalSugarsG": 19.7,
         "addedSugarsG": 0.0,
         "fatG": 20.0,
         "saturatedFatG": 10.6,
         "transFatG": 0.6,
-        "sodiumMg": 257
+        "sodiumMg": 258
+      }
+    },
+    {
+      "code": "BW-001",
+      "name": "Walnut Dark Chocolate Brownies",
+      "description": "Four moist eggless dark chocolate brownies with toasted walnuts",
+      "ingredients": "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture (sugar, cocoa solids, cocoa butter, emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical flavouring substance [vanillin]), sugar, butter, refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural vanilla and salt.",
+      "allergens": "Contains wheat, gluten, milk, soy and tree nuts (walnuts).",
+      "pack": "4 brownies",
+      "yieldGrams": 540,
+      "nutrition": {
+        "energyKcal": 497,
+        "proteinG": 7.3,
+        "carbohydrateG": 52.2,
+        "totalSugarsG": 37.6,
+        "addedSugarsG": 34.0,
+        "fatG": 29.8,
+        "saturatedFatG": 14.7,
+        "transFatG": 0.6,
+        "sodiumMg": 181
+      }
+    },
+    {
+      "code": "BI-001",
+      "name": "Almond Biscotti",
+      "description": "Crisp eggless twice-baked almond biscuits",
+      "ingredients": "Refined wheat flour, sugar, whole milk, almonds (tree nuts), butter, raising agent (sodium bicarbonate [INS 500(ii)]), salt and natural vanilla.",
+      "allergens": "Contains wheat, gluten, milk and tree nuts (almonds).",
+      "pack": "6 biscotti",
+      "yieldGrams": 120,
+      "nutrition": {
+        "energyKcal": 448,
+        "proteinG": 9.3,
+        "carbohydrateG": 61.6,
+        "totalSugarsG": 19.2,
+        "addedSugarsG": 17.5,
+        "fatG": 18.7,
+        "saturatedFatG": 7.4,
+        "transFatG": 0.4,
+        "sodiumMg": 343
+      }
+    },
+    {
+      "code": "BI-002",
+      "name": "Dark Chocolate Dipped Almond Biscotti",
+      "description": "Six almond biscotti dipped in dark chocolate couverture",
+      "ingredients": "Dark chocolate couverture (sugar, cocoa solids, cocoa butter, emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical flavouring substance [vanillin]), refined wheat flour, sugar, whole milk, almonds (tree nuts), butter, raising agent (sodium bicarbonate [INS 500(ii)]), salt and natural vanilla.",
+      "allergens": "Contains wheat, gluten, milk, soy and tree nuts (almonds).",
+      "pack": "6 dipped biscotti",
+      "yieldGrams": 210,
+      "nutrition": {
+        "energyKcal": 488,
+        "proteinG": 7.4,
+        "carbohydrateG": 59.2,
+        "totalSugarsG": 31.5,
+        "addedSugarsG": 30.6,
+        "fatG": 25.3,
+        "saturatedFatG": 13.2,
+        "transFatG": 0.2,
+        "sodiumMg": 201
       }
     }
   ]

@@ -45,13 +45,13 @@
 
       <text x="58" y="528" font-weight="700">Nutrient</text>
       <text x="940" y="528" font-weight="700" text-anchor="end">Per 100 g</text>
-      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">365 kcal</text>
+      <text x="58" y="570">Energy</text><text x="940" y="570" text-anchor="end">366 kcal</text>
       <text x="58" y="612">Protein</text><text x="940" y="612" text-anchor="end">5.3 g</text>
-      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">43.8 g</text>
-      <text x="78" y="696">Total sugars / Added sugars</text><text x="940" y="696" text-anchor="end">19.6 g / 0.0 g</text>
+      <text x="58" y="654">Carbohydrate</text><text x="940" y="654" text-anchor="end">43.9 g</text>
+      <text x="78" y="696">Total sugars / Added sugars</text><text x="940" y="696" text-anchor="end">19.7 g / 0.0 g</text>
       <text x="58" y="738">Total fat</text><text x="940" y="738" text-anchor="end">20.0 g</text>
       <text x="78" y="780">Saturated fat / Trans fat</text><text x="940" y="780" text-anchor="end">10.6 g / 0.6 g</text>
-      <text x="58" y="822">Sodium</text><text x="940" y="822" text-anchor="end">257 mg</text>
+      <text x="58" y="822">Sodium</text><text x="940" y="822" text-anchor="end">258 mg</text>
     </g>
 
     <line x1="40" y1="858" x2="960" y2="858" stroke="#c69c6d" stroke-width="2"/>
@@ -71,14 +71,19 @@
       <text x="940" y="1140" font-size="15" text-anchor="end">MRP inclusive of all taxes</text>
     </g>
 
-    <text x="40" y="1200" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.2">MANUFACTURED &amp; PACKED BY</text>
+    <g id="ordering-footer">
+    <text x="40" y="1200" font-size="16" fill="#6e7750" font-weight="700">MANUFACTURED &amp; PACKED BY</text>
     <text x="40" y="1231" font-size="21" font-weight="700">TRANCHE</text>
-    <text x="40" y="1260" font-size="19">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text>
-    <text x="40" y="1294" font-size="18">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057</text>
-    <text x="40" y="1324" font-size="18">tranchebakery.in  |  @tranchebakery</text>
-
-    <image xlink:href="FSSAI_Logo-official.png" x="790" y="1182" width="170" height="71" preserveAspectRatio="xMidYMid meet"/>
-    <text x="960" y="1273" font-size="18" text-anchor="end">Lic. No. 20826005005996</text>
+    <text x="40" y="1260" font-size="19">35, Parkview Apartment, Sector 15,</text>
+    <text x="40" y="1285" font-size="19">Gurgaon, Haryana 122001, India</text>
+    <text x="40" y="1315" font-size="18">Consumer care: +91 87967 70308</text>
+    <text x="40" y="1345" font-size="18">Orders: +91 88002 06057</text>
+    <text x="40" y="1375" font-size="18">tranchebakery.in  |  @tranchebakery</text>
+    <image xlink:href="FSSAI_Logo-official.png" x="40" y="1390" width="160" height="67" preserveAspectRatio="xMidYMid meet"/>
+    <text x="225" y="1430" font-size="18">Lic. No. 20826005005996</text>
+    <image xlink:href="WhatsApp-Order-QR.png" x="710" y="1190" width="240" height="240" preserveAspectRatio="xMidYMid meet"/>
+    <text x="830" y="1460" font-size="14" font-weight="700" text-anchor="middle" fill="#6e7750">SCAN TO ORDER</text>
+    </g>
 
   </g>
 </svg>

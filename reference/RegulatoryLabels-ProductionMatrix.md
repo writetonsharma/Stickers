@@ -35,7 +35,12 @@ Rows marked **(NOT SELLING)** are discontinued from the live menu (removed from 
 | TC-002 | Coffee & Walnut Tea Cake (NOT SELLING) | 375 g | 417 | 7.1 | 46.9 | 23.5 / 19.2 | 22.9 | 12.4 / 0.7 | 247 |
 | TC-003 | Dark Chocolate Marble Tea Cake | 375 g | 377 | 6.5 | 46.4 | 23.1 / 19.0 | 19.3 | 12.1 / 0.7 | 243 |
 | TC-004 | Vanilla Tea Cake | 375 g | 386 | 6.2 | 46.9 | 23.9 / 19.8 | 19.7 | 12.3 / 0.7 | 252 |
-| TC-005 | Date & Walnut Tea Cake | 375 g | 365 | 5.3 | 43.8 | 19.6 / 0.0 | 20.0 | 10.6 / 0.6 | 257 |
+| TC-005 | Date & Walnut Tea Cake | 375 g | 366 | 5.3 | 43.9 | 19.7 / 0.0 | 20.0 | 10.6 / 0.6 | 258 |
+
+
+| BW-001 | Walnut Dark Chocolate Brownies | 540 g* | 497 | 7.3 | 52.2 | 37.6 / 34.0 | 29.8 | 14.7 / 0.6 | 181 |
+| BI-001 | Almond Biscotti | 200 g* | 448 | 9.3 | 61.6 | 19.2 / 17.5 | 18.7 | 7.4 / 0.4 | 343 |
+| BI-002 | Dark Chocolate Dipped Almond Biscotti | 210 g* | 488 | 7.4 | 59.2 | 31.5 / 30.6 | 25.3 | 13.2 / 0.2 | 201 |
 
 ## Calculation Decisions
 
@@ -49,6 +54,7 @@ Rows marked **(NOT SELLING)** are discontinued from the live menu (removed from 
 - Malt and baking-soda bath uptake is treated as nutritionally negligible.
 - Multi-Seed Loaf uses 385 g total process water; water does not change listed nutrient totals.
 - Focaccia uses the recorded approximate 495 g baked yield for the 8×8 inch tray.
+- Sweet Bakes labels marked `*` use provisional measured-yield targets for nutrition only: BW-001 540 g baked per four-piece batch; BI-001 200 g baked per full 9–11-piece batch; BI-002 210 g per six-pack (120 g plain biscotti plus 90 g couverture). Replace with averaged production weights before print release.
 
 ## Release Boundary
 

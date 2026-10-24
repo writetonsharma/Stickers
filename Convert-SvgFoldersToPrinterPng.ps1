@@ -10,7 +10,7 @@ param(
 
     [Parameter()]
     [ValidateNotNullOrEmpty()]
-    [string[]]$SourceFolderNames = @('logo', 'Regulatory', 'seal', 'Thankyou', 'Gifthampers\Artwork')
+    [string[]]$SourceFolderNames = @('logo', 'Regulatory', 'seal', 'Thankyou')
 )
 
 $ErrorActionPreference = 'Stop'
