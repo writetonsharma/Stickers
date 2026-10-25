@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="262mm" height="172mm" viewBox="0 0 2620 1720" role="img" aria-labelledby="title desc">
-  <title id="title">Tranché dark couverture chocolate chunk cookies — connected jar label</title>
-  <desc id="desc">48 mm logo head joined by a 46 by 16 mm strip to a 256 by 72 mm three-section wrap. Handmade dark couverture chocolate chunk cookies, original cookie illustrations and WhatsApp ordering QR. Measured jar circumference is approximately 265 mm, leaving approximately 9 mm visible gap.</desc>
+  <title id="title">Tranché chocolate chunk and sea salt cookies — connected jar label</title>
+  <desc id="desc">48 mm logo head joined by a 46 by 16 mm strip to a 256 by 72 mm three-section wrap. Handmade chocolate chunk and sea salt cookies made with real dark couverture, original cookie illustrations and WhatsApp ordering QR. Measured jar circumference is approximately 265 mm, leaving approximately 9 mm visible gap.</desc>
   <defs>
     <clipPath id="lid"><circle cx="1345" cy="270" r="230"/></clipPath>
     <clipPath id="body"><rect x="30" y="970" width="2560" height="720" rx="35"/></clipPath>
@@ -44,12 +44,12 @@
       <rect width="45" height="45" fill="#ffffff" stroke="#008a3b" stroke-width="3"/>
       <circle cx="22.5" cy="22.5" r="12" fill="#008a3b"/>
     </g>
-    <text x="430" y="1110" font-family="Georgia, 'Times New Roman', serif" font-size="54">Dark Couverture</text>
-    <text x="430" y="1175" font-family="Georgia, 'Times New Roman', serif" font-size="54">Chocolate Chunk</text>
+    <text x="430" y="1110" font-family="Georgia, 'Times New Roman', serif" font-size="54">Chocolate Chunk</text>
+    <text x="430" y="1175" font-family="Georgia, 'Times New Roman', serif" font-size="54">&amp; Sea Salt</text>
     <text x="430" y="1230" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="7">COOKIES</text>
     <path d="M320 1265H540" stroke="#c69c6d" stroke-width="2"/>
     <use xlink:href="#chunk-cookie" transform="translate(430 1445) scale(1.18)"/>
-    <text x="430" y="1635" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic">Couverture pockets. Soft centres.</text>
+    <text x="430" y="1635" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic">Made with real dark couverture, never compound.</text>
   </g>
   <!-- Left section: product declarations. -->
   <g id="details-section" transform="translate(-800 0)" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#2b2b2b">

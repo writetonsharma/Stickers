@@ -8,7 +8,7 @@ The cookie draft now carries the existing green vegetarian symbol and the offici
 
 | Draft | Canvas | Lid circle | Neck width | Body panel |
 | --- | --- | --- | --- | --- |
-| Dark Couverture Chocolate Chunk Cookies | 262 × 172 mm | 48 mm | 16 mm | 256 × 72 mm |
+| Chocolate Chunk & Sea Salt Cookies | 262 × 172 mm | 48 mm | 16 mm | 256 × 72 mm |
 | Garlic & herb butter | 212 × 134 mm | 48 mm | 16 mm | 206 × 50 mm |
 
 The large cookie-jar physical geometry was finalized from a paper fit on 2026-10-23. It is one connected custom-cut sticker: a 48 mm lid circle, a 46 × 16 mm connecting strip measured from the circle edge to the body panel, and a 256 × 72 mm body panel. The jar circumference measured approximately 265 mm with thin thread and was independently confirmed by the paper wrap, leaving an approximately 9 mm viewing gap. These dimensions are final for artwork layout. The file remains named `Draft` because nutrition, supplier declaration, storage and other regulatory copy are not yet approved for sale.
@@ -17,7 +17,7 @@ The small garlic-butter jar geometry was finalized for trial cutting on 2026-10-
 
 ## Near-full-wrap revision
 
-Both body panels now wrap nearly around the container, with three sections from left to right: product declarations/batch details, product name/illustration in the CENTRE, and WhatsApp QR/social details. The lid head and connecting strip are aligned above the central product section. Cookie wording is "HANDMADE / Dark Couverture / Chocolate Chunk / COOKIES". Use this claim only while the actual chocolate is genuine couverture. Illustrations are original stylised SVG artwork, not photographs of the actual bakes; no internet images were used. Real product photos may replace the central illustrations once supplied: preferably a broken cookie showing the soft chocolate centre, and a separate garlic & herb butter serving photo, photographed in soft daylight on a plain neutral background. No suitable photos of these actual products were found by filename in the workspace; do not substitute cake/bread photos or unrelated stock food.
+Both body panels now wrap nearly around the container, with three sections from left to right: product declarations/batch details, product name/illustration in the CENTRE, and WhatsApp QR/social details. The lid head and connecting strip are aligned above the central product section. Cookie wording is "HANDMADE / Chocolate Chunk / & Sea Salt / COOKIES", with "Made with real dark couverture, never compound" beneath the illustration. Use this claim only while the actual chocolate is genuine couverture. Illustrations are original stylised SVG artwork, not photographs of the actual bakes; no internet images were used. Real product photos may replace the central illustrations once supplied: preferably a broken cookie showing the soft chocolate centre, and a separate garlic & herb butter serving photo, photographed in soft daylight on a plain neutral background. No suitable photos of these actual products were found by filename in the workspace; do not substitute cake/bread photos or unrelated stock food.
 
 Cookie wrap length is the measured 265 mm body circumference minus an approximately 9 mm viewing gap, giving the finalized 256 mm panel. The butter body panel is 206 mm long for the current physical trial; confirm its final viewing gap when the paper proof is fitted.
 
