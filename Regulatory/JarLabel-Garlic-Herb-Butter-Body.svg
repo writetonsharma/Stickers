@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206mm" height="50mm" viewBox="0 0 2060 500" role="img" aria-labelledby="title desc">
+  <title id="title">Tranché garlic and herb butter — jar body label</title>
+  <desc id="desc">Separate 206 by 50 mm body label matching the connected jar artwork, with declarations, product panel and WhatsApp ordering QR.</desc>
+  <defs>
+    <clipPath id="body"><rect x="30" y="810" width="2060" height="500" rx="35"/></clipPath>
+    <g id="herb" fill="#e0e3cf" stroke="#6e7750" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 120Q-5 20 20-110" fill="none"/>
+      <path d="M0 60Q-70 58-68 9Q-12 5 0 60Z M3 29Q67 23 77-25Q21-35 3 29Z M10-20Q-47-27-46-72Q8-70 10-20Z M17-65Q64-70 67-112Q26-118 17-65Z"/>
+    </g>
+  </defs>
+  <g transform="translate(-30 -810)">
+    <rect x="30" y="810" width="2060" height="500" rx="35" fill="#faf7f2"/>
+    <g clip-path="url(#body)">
+      <rect x="1403" y="810" width="687" height="500" fill="#f0ecdf"/>
+      <use xlink:href="#herb" transform="translate(65 1280) rotate(-30) scale(1.2)" opacity=".16"/>
+      <use xlink:href="#herb" transform="translate(2045 1270) rotate(20)" opacity=".12"/>
+    </g>
+    <rect x="44" y="824" width="2032" height="472" rx="25" fill="none" stroke="#c69c6d" stroke-width="2"/>
+    <path d="M717 840V1280 M1403 840V1280" stroke="#c69c6d" stroke-width="2"/>
+    <g id="product-section" transform="translate(730 0)" text-anchor="middle" fill="#5a3e2b">
+      <text x="330" y="867" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="3" fill="#6e7750">FROM OUR KITCHEN</text>
+      <g transform="translate(575 892)"><rect width="40" height="40" fill="#ffffff" stroke="#008a3b" stroke-width="3"/><circle cx="20" cy="20" r="11" fill="#008a3b"/></g>
+      <text x="330" y="925" font-family="Georgia, 'Times New Roman', serif" font-size="53">Garlic &amp; Herb</text>
+      <text x="330" y="980" font-family="Georgia, 'Times New Roman', serif" font-size="53">Butter</text>
+      <use xlink:href="#herb" transform="translate(320 1080) rotate(15) scale(.85)"/>
+      <path d="M242 1160l24-70 118 8 28 66z" fill="#eddbbc" stroke="#c69c6d" stroke-width="3"/>
+      <path d="M266 1090l31-22 117 9-30 21 M384 1098l30-21 29 66-31 21" fill="#f5e6c9" stroke="#c69c6d" stroke-width="3"/>
+      <rect x="100" y="1195" width="460" height="52" rx="26" fill="#6e7750"/>
+      <text x="330" y="1229" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1" fill="#ffffff">KEEP REFRIGERATED</text>
+      <text x="330" y="1273" font-family="Georgia, 'Times New Roman', serif" font-size="23" font-style="italic">A little jar of savoury goodness.</text>
+    </g>
+    <g id="details-section" transform="translate(-600 0)" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#2b2b2b">
+      <text x="675" y="862" fill="#6e7750" font-size="24" font-weight="700" letter-spacing="2">THE DETAILS</text>
+      <text x="675" y="895" font-weight="700">INGREDIENTS &amp; ALLERGENS</text>
+      <text x="675" y="920">Unsalted butter, extra virgin olive oil, garlic,</text>
+      <text x="675" y="945">parsley, thyme, oregano and sea salt. Contains milk.</text>
+      <text x="675" y="984" font-weight="700">NUTRITION (per 100 g, approx.)</text>
+      <text x="675" y="1009">Energy 720 kcal · Fat 81 g (sat 44 g) · Protein 0.9 g ·</text>
+      <text x="675" y="1034">Carbohydrate 1.2 g · Sodium 272 mg</text>
+      <text x="675" y="1066">Keep refrigerated. Best within 2 weeks of packing.</text>
+      <path d="M675 1085H1310" stroke="#c69c6d" stroke-width="2"/>
+      <text x="675" y="1114">Net qty. 150 g</text><text x="1030" y="1114">Batch ____________</text>
+      <text x="675" y="1142">Packed on _______________</text>
+      <text x="675" y="1172">MRP ₹ ______ (incl. all taxes)</text>
+      <text x="675" y="1212" font-weight="700">Tranché Artisan Bakery</text>
+      <text x="675" y="1238">FSSAI Lic. No. 20826005005996</text>
+    </g>
+    <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#2b2b2b">
+      <text x="1747" y="867" font-size="24" font-weight="700" letter-spacing="2" fill="#6e7750">MORE FROM TRANCHÉ</text>
+      <image x="1627" y="885" width="240" height="240" href="WhatsApp-Order-QR.png" xlink:href="WhatsApp-Order-QR.png"/>
+      <text x="1747" y="1145" font-size="23" font-weight="700">Scan to order on WhatsApp</text>
+      <text x="1747" y="1172" font-size="23">+91 88002 06057</text>
+      <text x="1747" y="1202" font-size="25">tranchebakery.in</text>
+      <text x="1747" y="1228" font-size="22">Instagram · @tranchebakery</text>
+      <text x="1747" y="1258" font-size="20">Care · +91 87967 70308</text>
+    </g>
+  </g>
+</svg>

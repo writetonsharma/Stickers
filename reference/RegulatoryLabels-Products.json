@@ -572,9 +572,10 @@
     {
       "code": "BW-001",
       "name": "Walnut Dark Chocolate Brownies",
-      "description": "Four moist eggless dark chocolate brownies with toasted walnuts",
-      "ingredients": "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture (sugar, cocoa solids, cocoa butter, emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical flavouring substance [vanillin]), sugar, butter, refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural vanilla and salt.",
-      "allergens": "Contains wheat, gluten, milk, soy and tree nuts (walnuts).",
+      "layout": "square",
+      "description": "Moist eggless dark chocolate brownies with toasted walnuts",
+      "ingredients": "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture, sugar, butter, refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural vanilla and salt.",
+      "allergens": "Contains wheat, gluten, milk and tree nuts (walnuts).",
       "pack": "4 brownies",
       "yieldGrams": 540,
       "nutrition": {

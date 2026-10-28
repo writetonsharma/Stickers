@@ -34,26 +34,29 @@ class OrderQrTests(unittest.TestCase):
                 svg = ET.parse(path).getroot()
                 images = list(svg.iter(f'{SVG}image'))
                 qrs = [i for i in images if i.get(XLINK, i.get('href')) == 'WhatsApp-Order-QR.png']
-                self.assertEqual(len(qrs), 1)
+                is_lid = path.stem.endswith('-Top')
+                self.assertEqual(len(qrs), 0 if is_lid else 1)
                 for image in images:
                     asset = image.get(XLINK, image.get('href', ''))
                     self.assertTrue((path.parent / asset).is_file(), asset)
                 width_mm = float(svg.attrib['width'].removesuffix('mm'))
                 height_mm = float(svg.attrib['height'].removesuffix('mm'))
                 view_width = float(svg.attrib['viewBox'].split()[2])
-                qr_mm = float(qrs[0].attrib['width']) * width_mm / view_width
-                self.assertGreaterEqual(qr_mm, 20)
+                if qrs:
+                    qr_mm = float(qrs[0].attrib['width']) * width_mm / view_width
+                    self.assertGreaterEqual(qr_mm, 20)
                 png = ROOT / 'Regulatory-png' / f'{path.stem}.png'
                 with Image.open(png) as image:
                     image.load()
                     self.assertEqual(image.size, (round(width_mm / 25.4 * 300), round(height_mm / 25.4 * 300)))
                     self.assertAlmostEqual(image.info['dpi'][0], 300, delta=0.1)
-                    for scale in (1, 0.5):
-                        check = image.convert('RGB')
-                        if scale != 1:
-                            check = check.resize((round(image.width * scale), round(image.height * scale)))
-                        decoded = zxingcpp.read_barcodes(check)
-                        self.assertIn(ORDER_URL, [r.text for r in decoded], f'{path.name} at {scale * 300} DPI')
+                    if qrs:
+                        for scale in (1, 0.5):
+                            check = image.convert('RGB')
+                            if scale != 1:
+                                check = check.resize((round(image.width * scale), round(image.height * scale)))
+                            decoded = zxingcpp.read_barcodes(check)
+                            self.assertIn(ORDER_URL, [r.text for r in decoded], f'{path.name} at {scale * 300} DPI')
 
     def test_refactor_is_idempotent(self) -> None:
         for path in active_masters():
@@ -70,7 +73,7 @@ class OrderQrTests(unittest.TestCase):
     def test_smaller_package_dimensions(self) -> None:
         for product in PRODUCTS:
             svg = ET.fromstring(label_svg(product))
-            expected = ('135mm', '65mm') if product['code'] == 'BW-001' else ('89mm', '127mm')
+            expected = ('110mm', '110mm') if product['code'] == 'BW-001' else ('89mm', '127mm')
             self.assertEqual((svg.attrib['width'], svg.attrib['height']), expected)
 
 

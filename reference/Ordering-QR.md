@@ -14,7 +14,7 @@
 | Label | Finished label size | QR including quiet zone |
 | --- | --- | --- |
 | Standard active regulatory label | 100 × 150 mm | 24 × 24 mm |
-| Walnut brownie | 135 × 65 mm | 20 × 20 mm |
+| Walnut brownie | 110 × 110 mm | 20 × 20 mm |
 | Both biscotti | 89 × 127 mm | approximately 22 × 22 mm |
 | Connected cookie jar | existing custom contour | 29 × 29 mm, unchanged |
 | Connected garlic-butter jar | existing custom contour | 24 × 24 mm, unchanged |

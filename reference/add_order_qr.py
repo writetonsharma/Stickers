@@ -48,22 +48,6 @@ def portrait_footer(compact: bool) -> str:
 def add_order_qr(svg: str) -> str:
     if 'id="ordering-footer"' in svg:
         return re.sub(r'(?m)[ \t]+$', '', svg)
-    if 'width="135mm"' in svg:
-        # Keep the nutrition font size; remove excess row padding instead.
-        start = svg.index('<text x="696" y="124"')
-        end = svg.index('<line x1="28" y1="469"', start)
-        table = svg[start:end]
-        table = table.replace('height="312"', 'height="256"')
-        # Original row pitch 39 -> 32, anchored at y=137.
-        table = re.sub(r'(?P<prefix>\by(?:1|2)?="|M696 |H1317 M696 )(?P<y>\d+)',
-                       lambda m: m["prefix"] + str(137 + round((int(m["y"]) - 137) * 32 / 39))
-                       if int(m["y"]) >= 137 else m[0], table)
-        svg = svg[:start] + table + svg[end:]
-        qr = '''<g id="ordering-footer">
-        <image xlink:href="WhatsApp-Order-QR.png" x="895" y="415" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
-        <text x="995" y="408" font-size="11" font-weight="700" text-anchor="middle" fill="#6e7750">SCAN TO ORDER</text>
-        </g>'''
-        return svg.replace('    </g>\n</svg>', f'        {qr}\n    </g>\n</svg>')
 
     compact = 'width="89mm"' in svg
     if compact:

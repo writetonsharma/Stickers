@@ -11,6 +11,15 @@ The cookie draft now carries the existing green vegetarian symbol and the offici
 | Chocolate Chunk & Sea Salt Cookies | 262 × 172 mm | 48 mm | 16 mm | 256 × 72 mm |
 | Garlic & herb butter | 212 × 134 mm | 48 mm | 16 mm | 206 × 50 mm |
 
+Separate-piece alternatives retain the same artwork and finished dimensions without the connecting strip:
+
+| Product | Lid master | Body master | Finished pieces |
+| --- | --- | --- | --- |
+| Chocolate Chunk & Sea Salt Cookies | `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Top.svg` | `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Body.svg` | 48 mm diameter; 256 × 72 mm |
+| Garlic & herb butter | `../Regulatory/JarLabel-Garlic-Herb-Butter-Top.svg` | `../Regulatory/JarLabel-Garlic-Herb-Butter-Body.svg` | 48 mm diameter; 206 × 50 mm |
+
+The original connected masters remain available. The separate masters use tight canvases equal to each finished piece, allowing the printer to impose lid and body labels independently with substantially less unused stock. They are alternatives, not replacements; choose one application format per jar.
+
 The large cookie-jar physical geometry was finalized from a paper fit on 2026-10-23. It is one connected custom-cut sticker: a 48 mm lid circle, a 46 × 16 mm connecting strip measured from the circle edge to the body panel, and a 256 × 72 mm body panel. The jar circumference measured approximately 265 mm with thin thread and was independently confirmed by the paper wrap, leaving an approximately 9 mm viewing gap. These dimensions are final for artwork layout. The file remains named `Draft` because nutrition, supplier declaration, storage and other regulatory copy are not yet approved for sale.
 
 The small garlic-butter jar geometry was finalized for trial cutting on 2026-10-23: a 48 mm lid circle, a 30 × 16 mm connecting strip measured from the circle edge to the body panel, and a 206 × 50 mm body panel. The supplied 212 × 134 mm SVG canvas provides 3 mm clear space around the 206 × 128 mm silhouette. The filename/content remain `Draft` until the physical fit and regulatory copy are approved.
@@ -21,7 +30,7 @@ Both body panels now wrap nearly around the container, with three sections from 
 
 Cookie wrap length is the measured 265 mm body circumference minus an approximately 9 mm viewing gap, giving the finalized 256 mm panel. The butter body panel is 206 mm long for the current physical trial; confirm its final viewing gap when the paper proof is fitted.
 
-The shared QR asset `../Regulatory/WhatsApp-Order-QR.png` encodes exactly `https://wa.me/918800206057?text=hi` (ordering number, NOT customer care). Generated with segno, normal QR version 4, error correction H, four-module white quiet zone, scale 16 (656 × 656 px). Placed at 29 mm on cookies and 24 mm on butter. Retain the white quiet zone and test actual printed QR on the CURVED jar with multiple phones. Website and Instagram are verified from the current website. Facebook says "handle to confirm"; no account was guessed.
+The shared QR asset `../Regulatory/WhatsApp-Order-QR.png` encodes exactly `https://wa.me/918800206057?text=hi` (ordering number, NOT customer care). Generated with segno, normal QR version 4, error correction H, four-module white quiet zone, scale 16 (656 × 656 px). Placed at 29 mm on cookies and 24 mm on butter. Retain the white quiet zone and test actual printed QR on the CURVED jar with multiple phones. Website and Instagram are verified from the current website. Facebook is omitted until an official handle is confirmed.
 
 Address has been removed from the draft artwork at the user's request. This is NOT a determination that address declarations are optional: resolve any mandatory manufacturer/packer address on the appropriate package surface before approving retail labels; a QR or website is not automatically a substitute.
 
@@ -48,7 +57,7 @@ The logo is the existing `../logo/Logo.PNG`, referenced from each SVG as `../log
 
 Run `Convert-SvgFoldersToPrinterPng.ps1` from the `Stickers` root on the ImageMagick machine. The connected-label SVGs are rendered with the other `Regulatory` masters at 300 DPI (or the supplied Dpi parameter), and outputs are written to `Regulatory-png/`.
 
-Expected 300 DPI canvas dimensions: cookies 3094 × 2031 px; butter 2504 × 1583 px. Transparent PNG rectangles are NOT rectangular sticker outlines: tell the printer the label is a connected custom-cut shape. A PNG alone does not supply a vector cutting die.
+Expected 300 DPI canvas dimensions: connected cookies 3094 × 2031 px; connected butter 2504 × 1583 px; each separate lid 567 × 567 px; separate cookie body 3024 × 850 px; separate butter body 2433 × 591 px. Transparent PNG rectangles are NOT rectangular sticker outlines: tell the printer the connected label is a custom-cut shape and the separate lids are circular. A PNG alone does not supply a vector cutting die.
 
 ## Fit test before refining
 
@@ -62,7 +71,7 @@ Expected 300 DPI canvas dimensions: cookies 3094 × 2031 px; butter 2504 × 1583
 - Final recipes, ingredient order, chocolate supplier sub-ingredients, allergens/cross-contact and nutrition; do not copy the garlic-knots nutrition onto its butter topping.
 - Actual packed net weights, batch/date fields, MRP and validated date-marking/storage instructions.
 - Review applicable FSSAI/Legal Metrology requirements, including food category/product name (the butter mixture may contain olive oil), veg mark, FSSAI logo, full nutrition/serving information and required type sizes. The current compact panels may need widening once real copy is available. Existing licence number/business details are carried over for layout only, not certification of product coverage.
-- Both drafts visibly say LAYOUT PROOF / NOT FOR SALE. Do not remove that notice until content and fit are approved.
+- Complete the physical fit, declaration and shelf-life checks before print release; the artwork no longer carries proof-only wording.
 - No chilli-garlic-oil label yet: formulation, safe process and storage instructions are unresolved. Oil and butter do not establish a safe 2–3-week life for added garlic. Refrigeration does not validate that claim, particularly for garlic-in-oil; obtain qualified food-safety advice and product-specific shelf-life validation.
 
 For production, commission a separate agreed dieline and bleed (typically printer-specified), safe margins, embedded assets/outlined fonts and a physical proof. Do not send these fit proofs as approved retail labels.

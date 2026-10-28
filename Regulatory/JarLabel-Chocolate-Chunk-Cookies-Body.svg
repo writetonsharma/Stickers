@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256mm" height="72mm" viewBox="0 0 2560 720" role="img" aria-labelledby="title desc">
+  <title id="title">Tranché chocolate chunk and sea salt cookies — jar body label</title>
+  <desc id="desc">Separate 256 by 72 mm body label matching the connected jar artwork, with declarations, product panel and WhatsApp ordering QR.</desc>
+  <defs>
+    <clipPath id="body"><rect x="30" y="970" width="2560" height="720" rx="35"/></clipPath>
+    <g id="chunk-cookie" fill="#d4af7d" stroke="#9a744d" stroke-width="3">
+      <path d="M-112-40Q-116-98-54-112Q-6-136 42-110Q105-112 117-48Q140 4 108 57Q99 114 34 117Q-20 140-67 107Q-126 98-118 36Q-140-6-112-40Z"/>
+      <g fill="#5a3e2b" stroke="none">
+        <path d="M-65-68l30-7 8 27-29 10zM28-82l29 7-4 30-29-9zM64-12l27 8-9 29-31-9zM-18-16l31-6 10 32-34 7zM-79 19l28 3-6 29-28-6zM-19 59l27-9 12 28-31 10zM38 43l24 8-6 25-27-9z"/>
+      </g>
+      <g fill="#ab8459" stroke="none"><circle cx="-15" cy="-83" r="5"/><circle cx="-92" cy="-15" r="5"/><circle cx="28" cy="27" r="5"/><circle cx="-47" cy="72" r="5"/></g>
+    </g>
+  </defs>
+  <g transform="translate(-30 -970)">
+    <rect x="30" y="970" width="2560" height="720" rx="35" fill="#faf7f2"/>
+    <g transform="translate(105 0)">
+      <g clip-path="url(#body)">
+        <rect x="1650" y="970" width="730" height="720" fill="#f0ecdf"/>
+        <g opacity="0.12">
+          <use xlink:href="#chunk-cookie" transform="translate(75 1020) rotate(-25) scale(.8)"/>
+          <use xlink:href="#chunk-cookie" transform="translate(790 1630) rotate(20) scale(.85)"/>
+          <use xlink:href="#chunk-cookie" transform="translate(1510 980) scale(.5)"/>
+          <use xlink:href="#chunk-cookie" transform="translate(2360 1640) scale(.9)"/>
+        </g>
+      </g>
+      <path d="M830 995V1655 M1650 995V1655" stroke="#c69c6d" stroke-width="2"/>
+      <g id="product-section" transform="translate(810 0)" text-anchor="middle" fill="#5a3e2b">
+        <text x="430" y="1025" font-family="Arial, Helvetica, sans-serif" font-size="27" letter-spacing="5" fill="#6e7750">HANDMADE</text>
+        <g transform="translate(730 990)"><rect width="45" height="45" fill="#ffffff" stroke="#008a3b" stroke-width="3"/><circle cx="22.5" cy="22.5" r="12" fill="#008a3b"/></g>
+        <text x="430" y="1110" font-family="Georgia, 'Times New Roman', serif" font-size="54">Chocolate Chunk</text>
+        <text x="430" y="1175" font-family="Georgia, 'Times New Roman', serif" font-size="54">&amp; Sea Salt</text>
+        <text x="430" y="1230" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="7">COOKIES</text>
+        <path d="M320 1265H540" stroke="#c69c6d" stroke-width="2"/>
+        <use xlink:href="#chunk-cookie" transform="translate(430 1445) scale(1.18)"/>
+        <text x="430" y="1635" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic">Made with real dark couverture, never compound.</text>
+      </g>
+      <g id="details-section" transform="translate(-800 0)" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#2b2b2b">
+        <text x="880" y="1025" fill="#6e7750" font-weight="700" letter-spacing="2">THE DETAILS</text>
+        <g font-size="22">
+          <text x="880" y="1064" font-weight="700">INGREDIENTS &amp; ALLERGENS</text>
+          <text x="880" y="1096">Refined wheat flour, butter, Van Houten 46.5% dark</text>
+          <text x="880" y="1125">couverture chocolate, brown sugar, caster sugar, whole milk,</text>
+          <text x="880" y="1154">cornflour, vanilla extract, raising agent (INS 500(ii)) and sea salt.</text>
+          <text x="880" y="1200" font-weight="700">NUTRITION (per 100 g, approx.)</text>
+          <text x="880" y="1229">Energy 504 kcal · Protein 5.2 g · Carbohydrate 61 g</text>
+          <text x="880" y="1258">(sugars 29 g) · Fat 27 g (sat 16 g) · Sodium 414 mg</text>
+          <text x="880" y="1300" font-weight="700">Contains wheat (gluten) and milk.</text>
+          <text x="880" y="1329">Store in a cool, dry place away from direct sunlight.</text>
+        </g>
+        <path d="M880 1357H1600" stroke="#c69c6d" stroke-width="2"/>
+        <text x="880" y="1390" font-size="23">Net qty. ______ g</text><text x="1280" y="1390" font-size="23">Batch __________</text>
+        <text x="880" y="1424" font-size="23">Packed on __________  Best before __________</text>
+        <text x="880" y="1458" font-size="23">MRP ₹ __________ (inclusive of all taxes)</text>
+        <text x="880" y="1500" font-weight="700">Tranché Artisan Bakery</text>
+        <image x="880" y="1520" width="170" height="71" href="FSSAI_Logo-official.png" xlink:href="FSSAI_Logo-official.png" preserveAspectRatio="xMidYMid meet"/>
+        <text x="1070" y="1562" font-size="23">Lic. No. 20826005005996</text>
+      </g>
+      <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" fill="#2b2b2b">
+        <text x="2015" y="1025" font-size="26" font-weight="700" letter-spacing="2" fill="#6e7750">ANOTHER JAR?</text>
+        <image x="1870" y="1060" width="290" height="290" href="WhatsApp-Order-QR.png" xlink:href="WhatsApp-Order-QR.png"/>
+        <text x="2015" y="1390" font-size="26" font-weight="700">Scan to order on WhatsApp</text>
+        <text x="2015" y="1432" font-size="25">+91 88002 06057</text>
+        <text x="2015" y="1492" font-size="27">tranchebakery.in</text>
+        <text x="2015" y="1537" font-size="25">Instagram · @tranchebakery</text>
+        <text x="2015" y="1582" font-size="23">Care · +91 87967 70308</text>
+      </g>
+    </g>
+    <rect x="44" y="984" width="2532" height="692" rx="25" fill="none" stroke="#c69c6d" stroke-width="2"/>
+  </g>
+</svg>

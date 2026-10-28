@@ -21,22 +21,20 @@ PRODUCTS = [
     {
         "code": "BW-001",
         "filename": "RegulatoryLabel-BW-001-Walnut-Dark-Chocolate-Brownies.svg",
-        "layout": "horizontal",
+        "layout": "square",
         "name": "Walnut Dark Chocolate Brownies",
         "title_size": 36,
-        "description": "Four moist eggless dark chocolate brownies with toasted walnuts",
+        "description": "Moist eggless dark chocolate brownies with toasted walnuts",
         "ingredients": (
-            "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture (sugar, cocoa solids, cocoa butter, "
-            "emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical "
-            "flavouring substance [vanillin]), sugar, butter, refined wheat flour, walnuts (tree nuts), whole milk, "
-            "cocoa powders, natural vanilla and salt."
+            "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture, sugar, butter, refined wheat "
+            "flour, walnuts (tree nuts), whole milk, cocoa powders, natural vanilla and salt."
         ),
         "ingredient_lines": [
-            "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture*, sugar, butter,",
-            "refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural vanilla and salt.",
-            "*Contains soya lecithin; full couverture declaration retained in the product record.",
+            "Sweetened condensed milk (milk solids, sugar), dark chocolate couverture, sugar,",
+            "butter, refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural",
+            "vanilla and salt.",
         ],
-        "allergens": "Contains wheat, gluten, milk, soy and tree nuts (walnuts).",
+        "allergens": "Contains wheat, gluten, milk and tree nuts (walnuts).",
         "pack": "4 brownies",
         "yieldGrams": 540,
         "formulaGrams": {
@@ -187,47 +185,57 @@ def upsert_nutrition(items: list[dict], product: dict) -> None:
     items.append(record)
 
 
-def horizontal_label_svg(product: dict) -> str:
+def square_label_svg(product: dict) -> str:
         nutrition = product["nutrition"]
-        return add_order_qr(f'''<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135mm" height="65mm" viewBox="0 0 1350 650" role="img" aria-labelledby="title description">
-    <title id="title">TRANCHE {escape(product["name"])} compact regulatory label content proof</title>
-    <description id="description">Compact horizontal content proof for both brownie box sizes; verify measured net weight before release.</description>
-    <rect width="1350" height="650" fill="#faf7f2"/><rect x="12" y="12" width="1326" height="626" rx="7" fill="none" stroke="#5a3e2b" stroke-width="2"/>
+        ingredient_lines = product["ingredient_lines"]
+        return f'''<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110mm" height="110mm" viewBox="0 0 1100 1100" role="img" aria-labelledby="title description">
+    <title id="title">TRANCHE {escape(product["name"])} regulatory label</title>
+    <description id="description">Single-column square label for a 6 by 6 inch brownie box; recipe-based approximate nutrition.</description>
+    <rect width="1100" height="1100" fill="#faf7f2"/><rect x="18" y="18" width="1064" height="1064" rx="8" fill="none" stroke="#5a3e2b" stroke-width="2"/>
     <g fill="#2b2b2b" font-family="Arial, Helvetica, sans-serif">
-        <text x="28" y="42" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" letter-spacing="2">TRANCHÉ</text>
-        <text x="28" y="68" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700">{escape(product["name"])}</text>
-        <text x="28" y="88" font-size="13">{escape(product["description"])}</text>
-        <g transform="translate(1290 26)"><rect width="35" height="35" fill="#fff" stroke="#008a3b" stroke-width="3"/><circle cx="17.5" cy="17.5" r="9" fill="#008a3b"/></g>
-        <line x1="28" y1="101" x2="1322" y2="101" stroke="#c69c6d" stroke-width="2"/><line x1="674" y1="112" x2="674" y2="460" stroke="#c69c6d" stroke-width="1.5"/>
+        <text x="42" y="62" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" letter-spacing="3">TRANCHÉ</text>
+        <text x="42" y="88" fill="#6e7750" font-size="13" font-weight="700" letter-spacing="2">ARTISAN BAKERY</text>
+        <text x="42" y="138" fill="#5a3e2b" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">{escape(product["name"])}</text>
+        <text x="42" y="168" font-size="18">{escape(product["description"])}</text>
+        <g transform="translate(990 48)"><rect width="58" height="58" fill="#fff" stroke="#008a3b" stroke-width="4"/><circle cx="29" cy="29" r="15" fill="#008a3b"/></g>
+        <line x1="42" y1="185" x2="1058" y2="185" stroke="#c69c6d" stroke-width="2"/>
 
-        <text x="28" y="124" fill="#6e7750" font-size="13" font-weight="700" letter-spacing="1">INGREDIENTS</text>
-        <g font-size="12"><text x="28" y="145">Sweetened condensed milk (milk solids, sugar), dark chocolate couverture*, sugar,</text><text x="28" y="163">butter, refined wheat flour, walnuts (tree nuts), whole milk, cocoa powders, natural</text><text x="28" y="181">vanilla and salt. *Contains soya lecithin; full declaration retained in product record.</text></g>
-        <text x="28" y="211" fill="#6e7750" font-size="13" font-weight="700" letter-spacing="1">ALLERGENS</text>
-        <text x="28" y="230" font-size="12" font-weight="700">Contains wheat, gluten, milk, soy and tree nuts (walnuts).</text>
-        <text x="28" y="249" font-size="11">Made in a kitchen that also handles milk products, tree nuts, soy, sesame</text><text x="28" y="265" font-size="11">and other seeds.</text>
-        <text x="28" y="293" fill="#6e7750" font-size="13" font-weight="700" letter-spacing="1">STORAGE</text>
-        <text x="28" y="312" font-size="12">{escape(product["storage"])}</text>
-        <rect x="28" y="330" width="625" height="119" rx="4" fill="#fff" stroke="#5a3e2b"/>
-        <text x="42" y="351" fill="#6e7750" font-size="12" font-weight="700">BATCH DETAILS</text>
-        <g font-size="12"><text x="42" y="375">Batch / Lot</text><line x1="112" y1="378" x2="310" y2="378" stroke="#2b2b2b"/><text x="330" y="375">Packed</text><line x1="379" y1="378" x2="635" y2="378" stroke="#2b2b2b"/><text x="42" y="405">Best before</text><line x1="112" y1="408" x2="310" y2="408" stroke="#2b2b2b"/><text x="330" y="405">Net Qty.</text><line x1="385" y1="408" x2="470" y2="408" stroke="#2b2b2b"/><text x="478" y="405">g</text><text x="510" y="405">MRP ₹</text><line x1="550" y1="408" x2="635" y2="408" stroke="#2b2b2b"/><text x="635" y="435" font-size="10" text-anchor="end">Inclusive of all taxes</text></g>
+        <text x="42" y="215" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.5">INGREDIENTS</text>
+        <g font-size="17"><text x="42" y="243">{escape(ingredient_lines[0])}</text><text x="42" y="267">{escape(ingredient_lines[1])}</text><text x="42" y="291">{escape(ingredient_lines[2])}</text></g>
+        <text x="42" y="322" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.5">ALLERGEN INFORMATION</text>
+        <text x="42" y="349" font-size="18" font-weight="700">{escape(product["allergens"])}</text>
+        <text x="42" y="374" font-size="15">Made in a kitchen that also handles milk products, tree nuts, soy, sesame and other seeds.</text>
+        <line x1="42" y1="392" x2="1058" y2="392" stroke="#c69c6d" stroke-width="2"/>
 
-        <text x="696" y="124" fill="#6e7750" font-size="13" font-weight="700" letter-spacing="1">NUTRITION INFORMATION</text><text x="1317" y="124" font-size="11" text-anchor="end">Approx. per 100 g</text>
-        <g font-size="13"><rect x="696" y="137" width="621" height="312" fill="#fff" stroke="#5a3e2b"/><line x1="1090" y1="137" x2="1090" y2="449" stroke="#5a3e2b"/><path d="M696 176H1317 M696 215H1317 M696 254H1317 M696 293H1317 M696 332H1317 M696 371H1317 M696 410H1317" stroke="#eadfce"/>
-            <text x="710" y="162" font-weight="700">Nutrient</text><text x="1303" y="162" font-weight="700" text-anchor="end">Per 100 g</text>
-            <text x="710" y="201">Energy</text><text x="1303" y="201" text-anchor="end">{nutrition["energyKcal"]} kcal</text><text x="710" y="240">Protein</text><text x="1303" y="240" text-anchor="end">{nutrition["proteinG"]} g</text><text x="710" y="279">Carbohydrate</text><text x="1303" y="279" text-anchor="end">{nutrition["carbohydrateG"]} g</text><text x="720" y="318">Total / added sugars</text><text x="1303" y="318" text-anchor="end">{nutrition["totalSugarsG"]} g / {nutrition["addedSugarsG"]} g</text><text x="710" y="357">Total fat</text><text x="1303" y="357" text-anchor="end">{nutrition["fatG"]} g</text><text x="720" y="396">Saturated / trans fat</text><text x="1303" y="396" text-anchor="end">{nutrition["saturatedFatG"]} g / {nutrition["transFatG"]} g</text><text x="710" y="435">Sodium</text><text x="1303" y="435" text-anchor="end">{nutrition["sodiumMg"]} mg</text></g>
+        <text x="42" y="421" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.5">NUTRITION INFORMATION</text>
+        <text x="1058" y="421" font-size="16" text-anchor="end">Approximate values per 100 g</text>
+        <g font-size="18"><rect x="42" y="438" width="1016" height="256" fill="#fff" stroke="#5a3e2b" stroke-width="1.5"/><line x1="710" y1="438" x2="710" y2="694" stroke="#5a3e2b"/><path d="M42 470H1058 M42 502H1058 M42 534H1058 M42 566H1058 M42 598H1058 M42 630H1058 M42 662H1058" stroke="#eadfce"/>
+            <text x="60" y="461" font-weight="700">Nutrient</text><text x="1040" y="461" font-weight="700" text-anchor="end">Per 100 g</text>
+            <text x="60" y="493">Energy</text><text x="1040" y="493" text-anchor="end">{nutrition["energyKcal"]} kcal</text>
+            <text x="60" y="525">Protein</text><text x="1040" y="525" text-anchor="end">{nutrition["proteinG"]} g</text>
+            <text x="60" y="557">Carbohydrate</text><text x="1040" y="557" text-anchor="end">{nutrition["carbohydrateG"]} g</text>
+            <text x="78" y="589">Total sugars / Added sugars</text><text x="1040" y="589" text-anchor="end">{nutrition["totalSugarsG"]} g / {nutrition["addedSugarsG"]} g</text>
+            <text x="60" y="621">Total fat</text><text x="1040" y="621" text-anchor="end">{nutrition["fatG"]} g</text>
+            <text x="78" y="653">Saturated fat / Trans fat</text><text x="1040" y="653" text-anchor="end">{nutrition["saturatedFatG"]} g / {nutrition["transFatG"]} g</text>
+            <text x="60" y="685">Sodium</text><text x="1040" y="685" text-anchor="end">{nutrition["sodiumMg"]} mg</text></g>
 
-        <line x1="28" y1="469" x2="1322" y2="469" stroke="#c69c6d" stroke-width="1.5"/>
-        <text x="28" y="490" fill="#6e7750" font-size="12" font-weight="700">MANUFACTURED &amp; PACKED BY</text><text x="28" y="510" font-size="14" font-weight="700">TRANCHE</text><text x="28" y="529" font-size="12">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text><text x="28" y="548" font-size="12">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057  |  tranchebakery.in  |  @tranchebakery</text>
-        <image xlink:href="FSSAI_Logo-official.png" x="1128" y="480" width="190" height="80" preserveAspectRatio="xMidYMid meet"/><text x="1318" y="576" font-size="12" text-anchor="end">Lic. No. 20826005005996</text>
-        <text x="28" y="614" font-size="11" fill="#884b36" font-weight="700">CONTENT PROOF · VERIFY MEASURED NET WEIGHT BEFORE PRINT RELEASE</text>
+        <text x="42" y="725" fill="#6e7750" font-size="16" font-weight="700" letter-spacing="1.5">STORAGE</text><text x="42" y="751" font-size="18">{escape(product["storage"])}</text>
+        <rect x="42" y="760" width="1016" height="88" rx="5" fill="#fff" stroke="#5a3e2b" stroke-width="1.5"/><text x="60" y="782" fill="#6e7750" font-size="15" font-weight="700" letter-spacing="1.2">BATCH DETAILS</text>
+        <g font-size="18"><text x="60" y="809">Batch / Lot No.</text><line x1="195" y1="813" x2="470" y2="813" stroke="#2b2b2b"/><text x="510" y="809">Packed on</text><line x1="606" y1="813" x2="1038" y2="813" stroke="#2b2b2b"/><text x="60" y="837">Best before</text><line x1="172" y1="841" x2="470" y2="841" stroke="#2b2b2b"/><text x="510" y="837">Net Qty.</text><line x1="592" y1="841" x2="695" y2="841" stroke="#2b2b2b"/><text x="705" y="837">g</text><text x="750" y="837">MRP ₹</text><line x1="812" y1="841" x2="1038" y2="841" stroke="#2b2b2b"/></g>
+
+        <text x="42" y="900" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="1.2">MANUFACTURED &amp; PACKED BY</text><text x="42" y="929" font-size="19" font-weight="700">TRANCHE</text>
+        <text x="42" y="956" font-size="16">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text>
+        <text x="42" y="983" font-size="15">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057</text><text x="42" y="1009" font-size="15">tranchebakery.in  |  @tranchebakery</text>
+        <image xlink:href="FSSAI_Logo-official.png" x="655" y="905" width="140" height="59" preserveAspectRatio="xMidYMid meet"/><text x="725" y="992" font-size="15" text-anchor="middle">Lic. No. 20826005005996</text>
+        <g id="ordering-footer"><text x="958" y="868" font-size="13" font-weight="700" text-anchor="middle" fill="#6e7750">SCAN TO ORDER</text><image xlink:href="WhatsApp-Order-QR.png" x="858" y="875" width="200" height="200" preserveAspectRatio="xMidYMid meet"/></g>
     </g>
 </svg>
-''')
+'''
 
 
 def label_svg(product: dict) -> str:
-    if product.get("layout") == "horizontal": return horizontal_label_svg(product)
+    if product.get("layout") == "square": return square_label_svg(product)
     nutrition = product["nutrition"]
     ingredient_tspans = "".join(
         f'<tspan x="40" y="{274 + index * 24}">{escape(line)}</tspan>'
