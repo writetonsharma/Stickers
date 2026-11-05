@@ -1,7 +1,7 @@
 """Apply a repeatable ordering footer to active flat regulatory SVG masters.
 
 Keeps declared print sizes, product copy, batch fields and nutrition values.
-The connected jar labels already use the same QR and are left untouched.
+The jar labels already use the same QR and are left untouched.
 """
 from __future__ import annotations
 
@@ -20,8 +20,7 @@ def portrait_footer(compact: bool) -> str:
         (60, 19, "35, Parkview Apartment, Sector 15,"),
         (85, 19, "Gurgaon, Haryana 122001, India"),
         (115, 18, "Consumer care: +91 87967 70308"),
-        (145, 18, "Orders: +91 88002 06057"),
-        (175, 18, "tranchebakery.in  |  @tranchebakery"),
+        (145, 18, "tranchebakery.in  |  @tranchebakery"),
     ]
     result = ['<g id="ordering-footer">']
     for offset, size, text in lines:

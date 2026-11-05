@@ -36,7 +36,7 @@
 
         <text x="42" y="900" fill="#6e7750" font-size="14" font-weight="700" letter-spacing="1.2">MANUFACTURED &amp; PACKED BY</text><text x="42" y="929" font-size="19" font-weight="700">TRANCHE</text>
         <text x="42" y="956" font-size="16">35, Parkview Apartment, Sector 15, Gurgaon, Haryana 122001, India</text>
-        <text x="42" y="983" font-size="15">Consumer care: +91 87967 70308  |  Orders: +91 88002 06057</text><text x="42" y="1009" font-size="15">tranchebakery.in  |  @tranchebakery</text>
+        <text x="42" y="983" font-size="15">Consumer care: +91 87967 70308</text><text x="42" y="1009" font-size="15">tranchebakery.in  |  @tranchebakery</text>
         <image xlink:href="FSSAI_Logo-official.png" x="655" y="905" width="140" height="59" preserveAspectRatio="xMidYMid meet"/><text x="725" y="992" font-size="15" text-anchor="middle">Lic. No. 20826005005996</text>
         <g id="ordering-footer"><text x="958" y="868" font-size="13" font-weight="700" text-anchor="middle" fill="#6e7750">SCAN TO ORDER</text><image xlink:href="WhatsApp-Order-QR.png" x="858" y="875" width="200" height="200" preserveAspectRatio="xMidYMid meet"/></g>
     </g>

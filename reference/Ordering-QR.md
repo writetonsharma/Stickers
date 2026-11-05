@@ -2,9 +2,12 @@
 
 ## Shared destination
 
-- Asset: `../Regulatory/WhatsApp-Order-QR.png`.
-- Destination: **https://wa.me/918800206057?text=hi** (WhatsApp ordering).
+- Asset: `../Regulatory/WhatsApp-Order-QR.png`. The filename is historical; the
+  destination is the website, not WhatsApp. Kept so the 28 referencing SVGs stay untouched.
+- Destination: **https://tranchebakery.in/breads.html** (website ordering).
 - Customer care remains **+91 87967 70308**, separate from ordering.
+- The ordering phone number is no longer printed on labels; ordering is the QR plus
+  the printed `tranchebakery.in` line.
 - This is a direct ordering link, not a payment QR or a third-party redirect.
 - The existing PNG includes its four-module white quiet zone; do not crop it,
   recolour it, add a logo inside it, or put text/borders across it.
@@ -16,8 +19,8 @@
 | Standard active regulatory label | 100 × 150 mm | 24 × 24 mm |
 | Walnut brownie | 110 × 110 mm | 20 × 20 mm |
 | Both biscotti | 89 × 127 mm | approximately 22 × 22 mm |
-| Connected cookie jar | existing custom contour | 29 × 29 mm, unchanged |
-| Connected garlic-butter jar | existing custom contour | 24 × 24 mm, unchanged |
+| Cookie jar | existing custom contour | 29 × 29 mm, unchanged |
+| Garlic-butter jar | existing custom contour | 24 × 24 mm, unchanged |
 
 Portrait labels use a two-column manufacturer/contact and ordering footer, with
 the FSSAI logo and licence retained. Biscotti recovers space from the gap before
@@ -43,13 +46,13 @@ The test needs Pillow and zxing-cpp in the Python environment.
 - Brownies, biscotti and cookies are not yet in the app's current menu. The QR
   opens the general ordering bot, not a product-specific basket. These products
   need assisted ordering via Message Us until separately added to the app.
-- The connected jar masters still have their existing draft regulatory copy;
-  this QR/layout work does not approve or finalize that copy.
+- The jar masters still have their existing draft regulatory copy; this
+  QR/layout work does not approve or finalize that copy.
 
 ## Consolidation and transfer
 
 The former `Gifthampers/` masters, PNGs and ordering asset now live in
-`Regulatory/` and `Regulatory-png/`. The connected-label specification is
+`Regulatory/` and `Regulatory-png/`. The jar-label specification is
 `Connected-Jar-Labels.md` here. Do not recreate the old folder.
 
 A transfer bundle must include **deletions** of the old tracked locations as

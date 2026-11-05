@@ -613,6 +613,7 @@
     {
       "code": "BI-002",
       "name": "Dark Chocolate Dipped Almond Biscotti",
+      "selling": false,
       "description": "Six almond biscotti dipped in dark chocolate couverture",
       "ingredients": "Dark chocolate couverture (sugar, cocoa solids, cocoa butter, emulsifiers [soya lecithin and polyglycerol esters of interesterified ricinoleic acid] and nature-identical flavouring substance [vanillin]), refined wheat flour, sugar, whole milk, almonds (tree nuts), butter, raising agent (sodium bicarbonate [INS 500(ii)]), salt and natural vanilla.",
       "allergens": "Contains wheat, gluten, milk, soy and tree nuts (almonds).",

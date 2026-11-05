@@ -123,8 +123,6 @@ FSSAI logo and Lic. No. 20826005005996
 
 Consumer care: +91 87967 70308
 
-Orders: +91 88002 06057
-
 Website: tranchebakery.in
 
 Instagram: @tranchebakery

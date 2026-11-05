@@ -17,7 +17,7 @@ from generate_sweet_bakes_labels import PRODUCTS, label_svg
 
 SVG = '{http://www.w3.org/2000/svg}'
 XLINK = '{http://www.w3.org/1999/xlink}href'
-ORDER_URL = 'https://wa.me/918800206057?text=hi'
+ORDER_URL = 'https://tranchebakery.in/breads.html'
 
 
 def active_masters() -> list[Path]:

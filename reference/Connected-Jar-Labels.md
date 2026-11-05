@@ -1,50 +1,44 @@
-# Connected jar labels — first fit proofs
+# Jar labels — lid and body masters
 
 These are editable SVG design concepts, NOT approved regulatory labels or production-ready cutting files. No preservative or extended shelf-life claim is made. On 2026-10-21 Butter Cookies were dropped and the cookie draft was changed to Chocolate Chunk only. The reduced-sugar, soft-centred cookie formula was accepted on 2026-10-24 and is recorded on page 9 of `sweetbakes/Tranche-Sweet-Bakes-V1.pdf` and as CK-001 in the root master DOCX. Label declarations still require the outstanding supplier and nutrition work below. Garlic & herb butter is the separate jarred finishing mixture, not garlic knots.
 
-The cookie draft now carries the existing green vegetarian symbol and the official FSSAI logo asset. These do not certify the draft as print-ready; confirm final ingredients are vegetarian and licence/product coverage before approval. The chocolate is Van Houten 46.5% dark couverture, not compound. Ingredients are listed in descending recipe input weight, with a wheat/gluten and milk statement. Baking soda is named as raising agent INS 500(ii). Chocolate supplier sub-ingredients and allergen declarations still require the actual pack label; cross-contact statements also need confirmation. Nutrition must be recalculated after the reduced-sugar trial is accepted, and storage/shelf-life placeholders remain unresolved. No added preservative appears in the trial formula; revise declarations if one is subsequently introduced.
+The cookie label now carries the existing green vegetarian symbol and the official FSSAI logo asset. These do not certify the draft as print-ready; confirm final ingredients are vegetarian and licence/product coverage before approval. The chocolate is Van Houten 46.5% dark couverture, not compound. Ingredients are listed in descending recipe input weight, with a wheat/gluten and milk statement. Baking soda is named as raising agent INS 500(ii). Chocolate supplier sub-ingredients and allergen declarations still require the actual pack label; cross-contact statements also need confirmation. Nutrition must be recalculated after the reduced-sugar trial is accepted, and storage/shelf-life placeholders remain unresolved. No added preservative appears in the trial formula; revise declarations if one is subsequently introduced.
 
 ## Artwork
 
-| Draft | Canvas | Lid circle | Neck width | Body panel |
-| --- | --- | --- | --- | --- |
-| Chocolate Chunk & Sea Salt Cookies | 262 × 172 mm | 48 mm | 16 mm | 256 × 72 mm |
-| Garlic & herb butter | 212 × 134 mm | 48 mm | 16 mm | 206 × 50 mm |
-
-Separate-piece alternatives retain the same artwork and finished dimensions without the connecting strip:
+The production masters are two separate pieces per jar — a lid circle and a body panel, with no connecting strip:
 
 | Product | Lid master | Body master | Finished pieces |
 | --- | --- | --- | --- |
 | Chocolate Chunk & Sea Salt Cookies | `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Top.svg` | `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Body.svg` | 48 mm diameter; 256 × 72 mm |
 | Garlic & herb butter | `../Regulatory/JarLabel-Garlic-Herb-Butter-Top.svg` | `../Regulatory/JarLabel-Garlic-Herb-Butter-Body.svg` | 48 mm diameter; 206 × 50 mm |
 
-The original connected masters remain available. The separate masters use tight canvases equal to each finished piece, allowing the printer to impose lid and body labels independently with substantially less unused stock. They are alternatives, not replacements; choose one application format per jar.
+The earlier connected single-piece masters (`-Draft`), which joined the lid to the body with a 16 mm neck strip on a 262 × 172 mm cookie / 212 × 134 mm butter canvas, were retired on 2026-11-05. Each remaining master uses a tight canvas equal to its finished piece, so the printer imposes lid and body labels independently with substantially less unused stock.
 
-The large cookie-jar physical geometry was finalized from a paper fit on 2026-10-23. It is one connected custom-cut sticker: a 48 mm lid circle, a 46 × 16 mm connecting strip measured from the circle edge to the body panel, and a 256 × 72 mm body panel. The jar circumference measured approximately 265 mm with thin thread and was independently confirmed by the paper wrap, leaving an approximately 9 mm viewing gap. These dimensions are final for artwork layout. The file remains named `Draft` because nutrition, supplier declaration, storage and other regulatory copy are not yet approved for sale.
+The large cookie-jar physical geometry was finalized from a paper fit on 2026-10-23: a 48 mm lid circle and a 256 × 72 mm body panel. The jar circumference measured approximately 265 mm with thin thread and was independently confirmed by the paper wrap, leaving an approximately 9 mm viewing gap. These dimensions are final for artwork layout. Nutrition, supplier declaration, storage and other regulatory copy are still not approved for sale; see Content still needed below.
 
-The small garlic-butter jar geometry was finalized for trial cutting on 2026-10-23: a 48 mm lid circle, a 30 × 16 mm connecting strip measured from the circle edge to the body panel, and a 206 × 50 mm body panel. The supplied 212 × 134 mm SVG canvas provides 3 mm clear space around the 206 × 128 mm silhouette. The filename/content remain `Draft` until the physical fit and regulatory copy are approved.
+The small garlic-butter jar geometry was finalized for trial cutting on 2026-10-23: a 48 mm lid circle and a 206 × 50 mm body panel. The physical fit and regulatory copy are still unapproved.
 
 ## Near-full-wrap revision
 
-Both body panels now wrap nearly around the container, with three sections from left to right: product declarations/batch details, product name/illustration in the CENTRE, and WhatsApp QR/social details. The lid head and connecting strip are aligned above the central product section. Cookie wording is "HANDMADE / Chocolate Chunk / & Sea Salt / COOKIES", with "Made with real dark couverture, never compound" beneath the illustration. Use this claim only while the actual chocolate is genuine couverture. Illustrations are original stylised SVG artwork, not photographs of the actual bakes; no internet images were used. Real product photos may replace the central illustrations once supplied: preferably a broken cookie showing the soft chocolate centre, and a separate garlic & herb butter serving photo, photographed in soft daylight on a plain neutral background. No suitable photos of these actual products were found by filename in the workspace; do not substitute cake/bread photos or unrelated stock food.
+Both body panels now wrap nearly around the container, with three sections from left to right: product declarations/batch details, product name/illustration in the CENTRE, and WhatsApp QR/social details. The lid label is applied above the central product section. Cookie wording is "HANDMADE / Chocolate Chunk / & Sea Salt / COOKIES", with "Made with real dark couverture, never compound" beneath the illustration. Use this claim only while the actual chocolate is genuine couverture. Illustrations are original stylised SVG artwork, not photographs of the actual bakes; no internet images were used. Real product photos may replace the central illustrations once supplied: preferably a broken cookie showing the soft chocolate centre, and a separate garlic & herb butter serving photo, photographed in soft daylight on a plain neutral background. No suitable photos of these actual products were found by filename in the workspace; do not substitute cake/bread photos or unrelated stock food.
 
 Cookie wrap length is the measured 265 mm body circumference minus an approximately 9 mm viewing gap, giving the finalized 256 mm panel. The butter body panel is 206 mm long for the current physical trial; confirm its final viewing gap when the paper proof is fitted.
 
-The shared QR asset `../Regulatory/WhatsApp-Order-QR.png` encodes exactly `https://wa.me/918800206057?text=hi` (ordering number, NOT customer care). Generated with segno, normal QR version 4, error correction H, four-module white quiet zone, scale 16 (656 × 656 px). Placed at 29 mm on cookies and 24 mm on butter. Retain the white quiet zone and test actual printed QR on the CURVED jar with multiple phones. Website and Instagram are verified from the current website. Facebook is omitted until an official handle is confirmed.
+The shared QR asset `../Regulatory/WhatsApp-Order-QR.png` encodes exactly `https://tranchebakery.in/breads.html` (website ordering; the filename is historical). Generated with segno, normal QR version 5, error correction H, four-module white quiet zone, scale 15 (675 × 675 px). Placed at 29 mm on cookies and 24 mm on butter. Retain the white quiet zone and test actual printed QR on the CURVED jar with multiple phones. Website and Instagram are verified from the current website. Facebook is omitted until an official handle is confirmed.
 
 Address has been removed from the draft artwork at the user's request. This is NOT a determination that address declarations are optional: resolve any mandatory manufacturer/packer address on the appropriate package surface before approving retail labels; a QR or website is not automatically a substitute.
 
-Artwork is in `../Regulatory/`. Each is ONE connected cream/olive silhouette with transparency outside it: round logo head → narrow neck → rounded body panel. The outer thin copper lines are decorative, NOT cutting paths. The cookie connecting strip is 46 × 16 mm; the butter connecting strip is 30 × 16 mm. Strip length is measured from the circle edge to the body-panel edge. The butter bend positions still require the physical trial fit.
+Artwork is in `../Regulatory/`. Each master is a cream/olive silhouette with transparency outside it: a round logo lid and a rounded body panel, supplied as separate pieces. The outer thin copper lines are decorative, NOT cutting paths. The butter bend positions still require the physical trial fit.
 
 ## Large cookie jar — printer specification
 
-Supply `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Draft.svg` as the vector master. Tell the printer:
+Supply `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Top.svg` and `../Regulatory/JarLabel-Chocolate-Chunk-Cookies-Body.svg` as the vector masters. Tell the printer:
 
-- Finished sticker must be one connected, custom contour-cut piece.
+- Finished artwork is two separate custom contour-cut pieces per jar.
 - Lid circle: 48 mm diameter.
-- Connecting strip: 46 mm long × 16 mm wide, measured from circle edge to body-panel edge.
 - Body panel: 256 mm long × 72 mm high, with rounded corners as drawn.
-- Overall finished silhouette: 256 mm wide × 166 mm high; the supplied SVG canvas is 262 × 172 mm and includes 3 mm clear space around the silhouette.
+- Each supplied SVG canvas equals its finished piece; there is no surrounding clear space to trim.
 - Print at 100% scale. Do not fit, stretch or proportionally resize.
 - Use the silhouette outer edge as the basis for a separate vector cut path; the inner copper keylines are decorative and must not be cut.
 - Ask the printer to add its required bleed outside the contour, normally 2–3 mm, without changing the finished dimensions. Keep the supplied safe-area artwork placement.
@@ -55,16 +49,15 @@ The logo is the existing `../logo/Logo.PNG`, referenced from each SVG as `../log
 
 ## PNG conversion
 
-Run `Convert-SvgFoldersToPrinterPng.ps1` from the `Stickers` root on the ImageMagick machine. The connected-label SVGs are rendered with the other `Regulatory` masters at 300 DPI (or the supplied Dpi parameter), and outputs are written to `Regulatory-png/`.
+Run `Convert-SvgFoldersToPrinterPng.ps1` from the `Stickers` root on the ImageMagick machine. The jar-label SVGs are rendered with the other `Regulatory` masters at 300 DPI (or the supplied Dpi parameter), and outputs are written to `Regulatory-png/`.
 
-Expected 300 DPI canvas dimensions: connected cookies 3094 × 2031 px; connected butter 2504 × 1583 px; each separate lid 567 × 567 px; separate cookie body 3024 × 850 px; separate butter body 2433 × 591 px. Transparent PNG rectangles are NOT rectangular sticker outlines: tell the printer the connected label is a custom-cut shape and the separate lids are circular. A PNG alone does not supply a vector cutting die.
+Expected 300 DPI canvas dimensions: each lid 567 × 567 px; cookie body 3024 × 850 px; butter body 2433 × 591 px. Transparent PNG rectangles are NOT rectangular sticker outlines: tell the printer the body panels are custom-cut shapes and the lids are circular. A PNG alone does not supply a vector cutting die.
 
 ## Fit test before refining
 
 1. Print SVG/PNG at actual size, 100%, with no fit-to-page scaling; confirm each 48 mm lid circle with a ruler.
-2. Cut around the connected silhouette and tape to the empty container. Check lid flat area, rim transition, strip length, body-panel height and curvature. The butter panel must stay below the shoulder and above the base curve. Record the butter wrap-end gap and evaluate readability/QR scanning around the curve.
-3. Open the lid and decide whether the neck should tear as an opening seal. No tamper-evident claim is established by this design.
-4. Test adhesive on both metal and the clear container; use condensation-resistant stock/adhesive for the refrigerated butter. Test writing on the chosen laminate/topcoat.
+2. Cut around each silhouette and tape to the empty container. Check lid flat area, rim transition, body-panel height and curvature. The butter panel must stay below the shoulder and above the base curve. Record the butter wrap-end gap and evaluate readability/QR scanning around the curve.
+3. Test adhesive on both metal and the clear container; use condensation-resistant stock/adhesive for the refrigerated butter. Test writing on the chosen laminate/topcoat.
 
 ## Content still needed
 
