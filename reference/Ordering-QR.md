@@ -43,9 +43,9 @@ The test needs Pillow and zxing-cpp in the Python environment.
   application to the final box/jar; check glare and curved surfaces as well.
 - Digital decoding is not a substitute for a physical scan test or printer/
   regulatory approval. Keep the existing proof warnings until release.
-- Brownies, biscotti and cookies are not yet in the app's current menu. The QR
-  opens the general ordering bot, not a product-specific basket. These products
-  need assisted ordering via Message Us until separately added to the app.
+- The QR opens the general ordering bot, not a product-specific basket, so it
+  cannot preselect the item the label is stuck to. Brownies, biscotti and cookies
+  are all orderable from the menu and the website.
 - The jar masters still have their existing draft regulatory copy; this
   QR/layout work does not approve or finalize that copy.
 
